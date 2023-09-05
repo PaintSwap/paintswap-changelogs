@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+git diff --cached --name-only --diff-filter=ACM | grep '.json$' | xargs npx jsonlint

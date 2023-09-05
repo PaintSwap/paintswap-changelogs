@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "prepare": "husky install"
+  },  
+  "dependencies": {
+    "jsonlint": "^1.6.3"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3"
+  }
+}
