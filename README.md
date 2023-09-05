@@ -3,12 +3,13 @@ Changelogs for Paintswap apps
 
 ## Instructions
 
-Create one file per app on the following format (latest version and changes at the top, features grouped first)
+Create one file per app on the following format (latest version and changes at the top, features grouped first).
 
 ```json
 [
   {
     "version": "1.1",
+    "lastUpdate": "2023-09-05",
     "changes": [
       {
           "type": "feature",

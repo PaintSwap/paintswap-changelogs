@@ -1,6 +1,7 @@
 [
   {
     "version": "1.1",
+    "lastUpdate": "2023-09-05",
     "changes": [
       {
         "type": "feature",
@@ -12,7 +13,7 @@
       },
       {
         "type": "feature",
-        "name": "Added link to PS pool in the menu"
+        "name": "Added link to PS brush staking in the menu"
       },
       {
         "type": "feature",
