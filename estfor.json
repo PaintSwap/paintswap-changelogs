@@ -37,7 +37,7 @@
       {
         "type": "bug",
         "name": "Fixed crash when entered decimal values in certain fields"
-      }
+      },
       {
         "type": "bug",
         "name": "Resetting approve brush botton state after switching player"

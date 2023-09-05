@@ -1,7 +1,9 @@
 # changelogs
 Changelogs for Paintswap apps
 
-## Create one file per app on the following format (latest version and changes at the top, features grouped first)
+## Instructions
+
+Create one file per app on the following format (latest version and changes at the top, features grouped first)
 
 ```json
 [
@@ -24,3 +26,5 @@ Changelogs for Paintswap apps
   }
 ]
 ```
+
+There is a pre-commit hook that checks the json format
