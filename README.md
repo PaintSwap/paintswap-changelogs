@@ -1,2 +1,24 @@
 # changelogs
-Changelogs for apps
+Changelogs for Paintswap apps
+
+## Create one file per app on the following format
+
+[
+  {
+    "version": "1.1",
+    "changes": [
+      {
+          "type": "bug",
+          "name": "Fixed app crash when using decimal values"
+      },
+      {
+          "type": "feature",
+          "name": "New XP column in the leaderboard table"
+      },
+    ]
+  },
+  {
+    "version": "1.2",
+    "changes": []
+  }
+]
