@@ -1,7 +1,7 @@
 # changelogs
 Changelogs for Paintswap apps
 
-## Create one file per app on the following format
+## Create one file per app on the following format (latest version and changes at the top, features grouped first)
 
 ```json
 [
@@ -9,13 +9,13 @@ Changelogs for Paintswap apps
     "version": "1.1",
     "changes": [
       {
-          "type": "bug",
-          "name": "Fixed app crash when using decimal values"
-      },
-      {
           "type": "feature",
           "name": "New XP column in the leaderboard table"
       },
+      {
+          "type": "bug",
+          "name": "Fixed app crash when using decimal values"
+      }
     ]
   },
   {

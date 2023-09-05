@@ -3,44 +3,12 @@
     "version": "1.1",
     "changes": [
       {
-        "type": "bug",
-        "name": "Correct URL when clicking empty quest icon"
-      },
-      {
-        "type": "bug",
-        "name": "Fixed inactive buttons properly in inventory"
+        "type": "feature",
+        "name": "Better clan page with tabs, for less scrolling"
       },
       {
         "type": "feature",
-        "name": "Changed icons of thieving actions"
-      },
-      {
-        "type": "bug",
-        "name": "Can now close both toast messages when two are shown"
-      },
-      {
-        "type": "feature",
-        "name": "Increased decimals in paintswap to support smaller listing values"
-      },
-      {
-        "type": "feature",
-        "name": "Added background panel to player/clan name in the shop"
-      },
-      {
-        "type": "bug",
-        "name": "Now remembers the refill boost when changing page or player"
-      },
-      {
-        "type": "feature",
-        "name": "Added link to PS estfor items in the shop"
-      },
-      {
-        "type": "feature",
-        "name": "More reliable fetching of journal events. No more duplicates."
-      },
-      {
-        "type": "bug",
-        "name": "Exact name matching when checking for available names"
+        "name": "Brush logo instead of money bag icon in the footer"
       },
       {
         "type": "feature",
@@ -48,7 +16,31 @@
       },
       {
         "type": "feature",
-        "name": "Brush logo instead of money bag icon in the footer"
+        "name": "More reliable fetching of journal events. No more duplicates."
+      },
+      {
+        "type": "feature",
+        "name": "Added background panel to player/clan name in the shop"
+      },
+      {
+        "type": "feature",
+        "name": "Added link to PS estfor items in the shop"
+      },
+      {
+        "type": "feature",
+        "name": "Increased decimals in paintswap to support smaller listing values"
+      },
+      {
+        "type": "feature",
+        "name": "Changed icons of thieving actions"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed crash when entered decimal values in certain fields"
+      }
+      {
+        "type": "bug",
+        "name": "Resetting approve brush botton state after switching player"
       },
       {
         "type": "bug",
@@ -56,15 +48,23 @@
       },
       {
         "type": "bug",
-        "name": "Resetting approve brush botton state after switching player"
+        "name": "Exact name matching when checking for available names"
       },
       {
         "type": "bug",
-        "name": "Fixed crash when entered decimal values in certain fields"
+        "name": "Now remembers the refill boost when changing page or player"
       },
       {
-        "type": "feature",
-        "name": "Better clan page with tabs, for less scrolling"
+        "type": "bug",
+        "name": "Can now close both toast messages when two are shown"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed inactive buttons properly in inventory"
+      },
+      {
+        "type": "bug",
+        "name": "Correct URL when clicking empty quest icon"
       }
     ]
   }
