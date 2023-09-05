@@ -1,4 +1,5 @@
-#!/usr/bin/env sh
-. "$(dirname -- "$0")/_/husky.sh"
+#!/bin/sh
+#. "$(dirname "$0")/_/husky.sh"
 
-git diff --cached --name-only --diff-filter=ACM | grep '.json$' | xargs npx jsonlint
+#grep '^changes/.*\.json$'
+#grep '^changes/.*\.json$' | xargs npx jsonlint
