@@ -3,6 +3,7 @@ Changelogs for Paintswap apps
 
 ## Create one file per app on the following format
 
+```json
 [
   {
     "version": "1.1",
@@ -22,3 +23,4 @@ Changelogs for Paintswap apps
     "changes": []
   }
 ]
+```
