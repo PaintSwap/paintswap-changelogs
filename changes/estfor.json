@@ -17,7 +17,7 @@
       },
       {
         "type": "feature",
-        "name": "More reliable fetching of journal events. No more duplicates."
+        "name": "More reliable fetching of journal events. No more duplicates"
       },
       {
         "type": "feature",
@@ -34,6 +34,14 @@
       {
         "type": "feature",
         "name": "Changed icons of thieving actions"
+      },
+      {
+        "type": "bug",
+        "name": "Queued actions now show in the correct order in the journal"
+      },
+      {
+        "type": "bug",
+        "name": "No longer show a 'Deposit to Bank' journal entry in addition to the 'Gifting to Bank' entry"
       },
       {
         "type": "bug",
