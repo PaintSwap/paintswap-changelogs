@@ -41,6 +41,18 @@
       },
       {
         "type": "bug",
+        "name": "Wallets can now only receive 1 daily reward per day regardless of the number of heroes"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed the case where 'total food required' exceeded max (65535) when looting after"
+      },
+      {
+        "type": "bug",
+        "name": "Added totalSupply() function to PlayerNFT to correctly show total on Ftmscan"
+      },
+      {
+        "type": "bug",
         "name": "Now displaying correct daily reward when leveling up after claiming"
       },
       {
