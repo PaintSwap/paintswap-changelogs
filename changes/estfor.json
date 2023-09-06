@@ -9,6 +9,10 @@
       },
       {
         "type": "feature",
+        "name": "Limited Heroes to max 3 per wallet acccount to prevent abuse"
+      },
+      {
+        "type": "feature",
         "name": "Brush logo instead of money bag icon in the footer"
       },
       {
@@ -34,6 +38,14 @@
       {
         "type": "feature",
         "name": "Changed icons of thieving actions"
+      },
+      {
+        "type": "bug",
+        "name": "Now displaying correct daily reward when leveling up after claiming"
+      },
+      {
+        "type": "bug",
+        "name": "Corrected the fighting style icon in the action detail dialog"
       },
       {
         "type": "bug",
