@@ -1,7 +1,7 @@
 [
   {
     "version": "1.1",
-    "lastUpdate": "Sep 5, 2023",
+    "lastUpdate": "Sep 7, 2023",
     "changes": [
       {
         "type": "feature",
@@ -38,6 +38,14 @@
       {
         "type": "feature",
         "name": "Changed icons of thieving actions"
+      },
+      {
+        "type": "bug",
+        "name": "Corrected the monster drops for the bosses"
+      },
+      {
+        "type": "bug",
+        "name": "Corrected the ASH output rate in firemaking"
       },
       {
         "type": "bug",
