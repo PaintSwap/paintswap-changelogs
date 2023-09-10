@@ -1,8 +1,20 @@
 [
   {
     "version": "1.1",
-    "lastUpdate": "Sep 7, 2023",
+    "lastUpdate": "Sep 10, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Update hero comparison table on the leaderboard page when player stats update"
+      },
+      {
+        "type": "feature",
+        "name": "Show exact BRUSH value when click/hover on shop/treasure stats"
+      },
+      {
+        "type": "feature",
+        "name": "Add age column to clan members table"
+      },
       {
         "type": "feature",
         "name": "Better clan page with tabs, for less scrolling"
@@ -38,6 +50,18 @@
       {
         "type": "feature",
         "name": "Changed icons of thieving actions"
+      },
+      {
+        "type": "bug",
+        "name": "Block enter key in certain input fields that update automatically, less weird behaviour"
+      },
+      {
+        "type": "bug",
+        "name": "Linking to PS collection NFT tab now show correct metadata label"
+      },
+      {
+        "type": "bug",
+        "name": "Now longer warns about 'item in use' when distributing items from clan"
       },
       {
         "type": "bug",
