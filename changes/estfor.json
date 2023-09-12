@@ -1,11 +1,33 @@
 [
   {
+    "version": "1.2",
+    "lastUpdate": "Sep 12, 2023",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Price conversion modal when clicking on BRUSH prices and stats"
+      },
+      {
+        "type": "feature",
+        "name": "Better representation of the daily reward tier progress"
+      },
+      {
+        "type": "feature",
+        "name": "Changed 'Age' to 'Joined' in clan members table"
+      },
+      {
+        "type": "bug",
+        "name": "Better description of fishing equipment"
+      }
+    ]
+  },
+  {
     "version": "1.1",
     "lastUpdate": "Sep 10, 2023",
     "changes": [
       {
         "type": "feature",
-        "name": "Update hero comparison table on the leaderboard page when player stats update"
+        "name": "Refreshing hero comparison table on the leaderboard page when player stats update"
       },
       {
         "type": "feature",
@@ -13,7 +35,7 @@
       },
       {
         "type": "feature",
-        "name": "Add age column to clan members table"
+        "name": "Added 'Age' column to clan members table"
       },
       {
         "type": "feature",
