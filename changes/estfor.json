@@ -9,6 +9,10 @@
       },
       {
         "type": "feature",
+        "name": "Removed the /game from the URL"
+      },
+      {
+        "type": "feature",
         "name": "Adjusted mechanics: Elemental Dragon drops, Daily/Weekly Reward Pool"
       },
       {
