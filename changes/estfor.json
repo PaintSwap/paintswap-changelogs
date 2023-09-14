@@ -1,8 +1,16 @@
 [
   {
     "version": "1.2",
-    "lastUpdate": "Sep 12, 2023",
+    "lastUpdate": "Sep 14, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Code optimizations: Reduced app bundle size by 50% => faster loading times!"
+      },
+      {
+        "type": "feature",
+        "name": "Adjusted mechanics: Elemental Dragon drops, Daily/Weekly Reward Pool"
+      },
       {
         "type": "feature",
         "name": "Price conversion modal when clicking on BRUSH prices and stats"
@@ -14,6 +22,14 @@
       {
         "type": "feature",
         "name": "Changed 'Age' to 'Joined' in clan members table"
+      },
+      {
+        "type": "bug",
+        "name": "Corrected combat layout when no player loaded"
+      },
+      {
+        "type": "bug",
+        "name": "Removed action panel in wishing well when no player loaded"
       },
       {
         "type": "bug",
