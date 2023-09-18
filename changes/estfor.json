@@ -1,8 +1,12 @@
 [
   {
     "version": "1.2",
-    "lastUpdate": "Sep 14, 2023",
+    "lastUpdate": "Sep 17, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Better mobile support for leaderboard, now with comparison tabs! Plus better logic when comparing between skills."
+      },
       {
         "type": "feature",
         "name": "Code optimizations: Reduced app bundle size by 50% => faster loading times!"
@@ -26,6 +30,10 @@
       {
         "type": "feature",
         "name": "Changed 'Age' to 'Joined' in clan members table"
+      },
+      {
+        "type": "bug",
+        "name": "Check if valid BRUSH balance when opening the wishing well page"
       },
       {
         "type": "bug",
