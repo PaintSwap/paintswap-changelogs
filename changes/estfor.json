@@ -1,7 +1,7 @@
 [
   {
     "version": "1.2",
-    "lastUpdate": "Sep 17, 2023",
+    "lastUpdate": "Sep 22, 2023",
     "changes": [
       {
         "type": "feature",
@@ -30,6 +30,10 @@
       {
         "type": "feature",
         "name": "Changed 'Age' to 'Joined' in clan members table"
+      },
+      {
+        "type": "bug",
+        "name": "Better reload of pending XP after looting, no longer falsely unlocking actions"
       },
       {
         "type": "bug",
