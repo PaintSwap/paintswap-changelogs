@@ -9,6 +9,10 @@
       },
       {
         "type": "feature",
+        "name": "Display item unit price in the price converter when using multi-quantities"
+      },
+      {
+        "type": "feature",
         "name": "Prioritizing Rabby over Metamask when connecting wallet"
       },
       {
