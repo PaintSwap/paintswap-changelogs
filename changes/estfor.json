@@ -1,11 +1,23 @@
 [
   {
     "version": "1.2",
-    "lastUpdate": "Sep 22, 2023",
+    "lastUpdate": "Sep 27, 2023",
     "changes": [
       {
         "type": "feature",
-        "name": "Better mobile support for leaderboard, now with comparison tabs! Plus better logic when comparing between skills."
+        "name": "Integration for 1kin.io"
+      },
+      {
+        "type": "feature",
+        "name": "Prioritizing Rabby over Metamask when connecting wallet"
+      },
+      {
+        "type": "feature",
+        "name": "Quick-button for selecting own hero in the leaderboard comparison table"
+      },
+      {
+        "type": "feature",
+        "name": "Better mobile support for leaderboard, now with comparison tabs! Plus better logic when comparing between skills"
       },
       {
         "type": "feature",
@@ -30,6 +42,10 @@
       {
         "type": "feature",
         "name": "Changed 'Age' to 'Joined' in clan members table"
+      },
+      {
+        "type": "bug",
+        "name": "Refresh compared heroes even when they are not in the leaderboard table"
       },
       {
         "type": "bug",
