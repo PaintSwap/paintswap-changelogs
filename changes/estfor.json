@@ -1,8 +1,12 @@
 [
   {
     "version": "1.2",
-    "lastUpdate": "Sep 27, 2023",
+    "lastUpdate": "Sep 30, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "New compact optional menu design for better mobile navigation. Activated from the settings panel."
+      },
       {
         "type": "feature",
         "name": "Integration for 1kin.io"
@@ -46,6 +50,10 @@
       {
         "type": "feature",
         "name": "Changed 'Age' to 'Joined' in clan members table"
+      },
+      {
+        "type": "bug",
+        "name": "Can now remove action 2 or 3 out of 3 at the same time as adding a new one"
       },
       {
         "type": "bug",
