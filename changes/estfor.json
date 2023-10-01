@@ -1,8 +1,12 @@
 [
   {
     "version": "1.2",
-    "lastUpdate": "Sep 30, 2023",
+    "lastUpdate": "Oct 1, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Ability to copy items lists from the journal"
+      },
       {
         "type": "feature",
         "name": "New compact optional menu design for better mobile navigation. Activated from the settings panel."
@@ -50,6 +54,10 @@
       {
         "type": "feature",
         "name": "Changed 'Age' to 'Joined' in clan members table"
+      },
+      {
+        "type": "bug",
+        "name": "Switching wallet account before transactions are confirmed no longer shows wrong action data for the new player"
       },
       {
         "type": "bug",
