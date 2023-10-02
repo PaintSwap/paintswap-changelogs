@@ -57,6 +57,10 @@
       },
       {
         "type": "bug",
+        "name": "More stable loading of players when switching wallet accounts, solving 'infinite loading'"
+      },
+      {
+        "type": "bug",
         "name": "Switching wallet account before transactions are confirmed no longer shows wrong action data for the new player"
       },
       {
