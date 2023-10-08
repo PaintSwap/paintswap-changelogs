@@ -1,8 +1,12 @@
 [
   {
     "version": "1.3",
-    "lastUpdate": "Oct 3, 2023",
+    "lastUpdate": "Oct 8, 2023",
     "changes": [
+      {
+        "type": "bug",
+        "name": "Rows no longer highlighted in the wishing well leaderboard table"
+      },
       {
         "type": "bug",
         "name": "Level required to equip Runite pickaxe changed from 90 to 85"
