@@ -5,6 +5,10 @@
     "changes": [
       {
         "type": "feature",
+        "name": "New LEADER role with the same power as OWNER. Can only be one owner but multiple leaders. All old leaders have become owners."
+      },
+      {
+        "type": "feature",
         "name": "NFT gatekeeping where only players with certain NFTs can join a clan."
       },
       {
