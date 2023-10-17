@@ -1,8 +1,80 @@
 [
   {
     "version": "1.3",
-    "lastUpdate": "Oct 8, 2023",
+    "lastUpdate": "Oct 17, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "NFT gatekeeping where only players with certain NFTs can join a clan."
+      },
+      {
+        "type": "feature",
+        "name": "A new collection page to discover all NFTs owned and not owned. Who will find them all?"
+      },
+      {
+        "type": "feature",
+        "name": "Add discord, twitter and/or telegram social links to your hero journal profile"
+      },
+      {
+        "type": "feature",
+        "name": "Allow clan leaders to pin a message in their clan"
+      },
+      {
+        "type": "feature",
+        "name": "Inventory validation for new and refill boosts (with automatic removal)"
+      },
+      {
+        "type": "feature",
+        "name": "Make donation amount default to minimum wishing amount instead of latest donation"
+      },
+      {
+        "type": "feature",
+        "name": "Improved edit buttons to handle clan members"
+      },
+      {
+        "type": "feature",
+        "name": "Real-time private chat with clan members!"
+      },
+      {
+        "type": "feature",
+        "name": "Ability to enable/disable clan join requests (default enabled)"
+      },
+      {
+        "type": "feature",
+        "name": "Bulk removal of clan join requests as clan SCOUT or higher"
+      },
+      {
+        "type": "feature",
+        "name": "Moved the journal event copy button to app settings (hidden by default)"
+      },
+      {
+        "type": "feature",
+        "name": "Better mobile design for clan admin buttons"
+      },
+      {
+        "type": "feature",
+        "name": "More journal events related to requests and invites"
+      },
+      {
+        "type": "bug",
+        "name": "Allow changing capitilization in hero and clan names without changing the name"
+      },
+      {
+        "type": "bug",
+        "name": "No longer zoom in on mobile when focusing on input fields (for compact menu where default zoom is 90%)"
+      },
+      {
+        "type": "bug",
+        "name": "Rows no longer highlighted in the wishing well leaderboard table"
+      },
+      {
+        "type": "bug",
+        "name": "Corrected margin issue when using 3 input ingredients in crafting/smithing"
+      },
+      {
+        "type": "bug",
+        "name": "Use correct UTC time when copying journal events"
+      },
       {
         "type": "bug",
         "name": "Rows no longer highlighted in the wishing well leaderboard table"
@@ -13,7 +85,7 @@
       },
       {
         "type": "bug",
-        "name": "Level required for mining Dragonstone changed from 95 to 93"
+        "name": "Level required for mining Dragonstone changed from 93 to 95"
       },
       {
         "type": "bug",
