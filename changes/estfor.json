@@ -1,8 +1,16 @@
 [
   {
     "version": "1.3",
-    "lastUpdate": "Oct 17, 2023",
+    "lastUpdate": "Oct 19, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Upgraded Wallet Connect Modal to v3 for better mobile connectivity between browsers/wallets."
+      },
+      {
+        "type": "feature",
+        "name": "Added clan contest. First clan to level 20,000 to win boosts!"
+      },
       {
         "type": "feature",
         "name": "New LEADER role with the same power as OWNER. Can only be one owner but multiple leaders. All old leaders have become owners."
