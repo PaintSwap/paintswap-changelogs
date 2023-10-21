@@ -1,5 +1,31 @@
 [
   {
+    "version": "1.4",
+    "lastUpdate": "Oct 21, 2023",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Improved menu design for all screen sizes"
+      },
+      {
+        "type": "bug",
+        "name": "Saving actions no longer fails if the last donation amount happens to be null"
+      },
+      {
+        "type": "bug",
+        "name": "Can deselect text after selecting text in the chat and pinned clan message"
+      },
+      {
+        "type": "bug",
+        "name": "Collection page items now have a fixed height when loading"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed missing margins on the landing page"
+      }
+    ]
+  },
+  {
     "version": "1.3",
     "lastUpdate": "Oct 19, 2023",
     "changes": [
