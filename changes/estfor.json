@@ -1,8 +1,12 @@
 [
   {
     "version": "1.4",
-    "lastUpdate": "Oct 21, 2023",
+    "lastUpdate": "Oct 25, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Animated clan member flames to indicate last activity (with sorting)"
+      },
       {
         "type": "feature",
         "name": "Improved menu design for all screen sizes"
