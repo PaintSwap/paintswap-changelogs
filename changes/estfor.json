@@ -1,8 +1,28 @@
 [
   {
     "version": "1.4",
-    "lastUpdate": "Oct 25, 2023",
+    "lastUpdate": "Oct 30, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Better changelog structure for readability"
+      },
+      {
+        "type": "feature",
+        "name": "Activity torches also in clan join requests table and on player profile page"
+      },
+      {
+        "type": "feature",
+        "name": "Improved popup tooltips behavior, especially for mobile users. Faster and easier to close"
+      },
+      {
+        "type": "feature",
+        "name": "More efficient loading of the collection page"
+      },
+      {
+        "type": "feature",
+        "name": "New music track by Steven Vinyl - The Tree Below"
+      },
       {
         "type": "feature",
         "name": "Animated clan member flames to indicate last activity (with sorting)"
