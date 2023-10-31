@@ -1,8 +1,12 @@
 [
   {
     "version": "1.4",
-    "lastUpdate": "Oct 30, 2023",
+    "lastUpdate": "Oct 31, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Added another collection for special items on the collection page"
+      },
       {
         "type": "feature",
         "name": "Better changelog structure for readability"
