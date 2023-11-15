@@ -1,8 +1,48 @@
 [
   {
     "version": "1.4",
-    "lastUpdate": "Oct 31, 2023",
+    "lastUpdate": "Nov 15, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "More compact and easier to use item shop when selling items"
+      },
+      {
+        "type": "feature",
+        "name": "New quest (for evolved only): So Fletch"
+      },
+      {
+        "type": "feature",
+        "name": "Allow sorting by evolved players in the leaderboard"
+      },
+      {
+        "type": "feature",
+        "name": "Heroes can now be evolved to unlock unique game features"
+      },
+      {
+        "type": "feature",
+        "name": "New item: Flux - To be used in alchemy for evolved heroes"
+      },
+      {
+        "type": "feature",
+        "name": "More alchemy: By combining elixium and flux, new items can be created"
+      },
+      {
+        "type": "feature",
+        "name": "New skill: Forging along with instant actions to obtain elixium"
+      },
+      {
+        "type": "feature",
+        "name": "Notify on clan invites (can be opted out in the settings)"
+      },
+      {
+        "type": "feature",
+        "name": "Animated XP progress bar and numbers in the loot modal"
+      },
+      {
+        "type": "feature",
+        "name": "Better looking locked actions"
+      },
       {
         "type": "feature",
         "name": "Added another collection for special items on the collection page"
@@ -34,6 +74,10 @@
       {
         "type": "feature",
         "name": "Improved menu design for all screen sizes"
+      },
+      {
+        "type": "bug",
+        "name": "Now displays output item tooltip for firemaking, cooking and forging"
       },
       {
         "type": "bug",
