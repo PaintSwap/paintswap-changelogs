@@ -1,8 +1,16 @@
 [
   {
     "version": "1.4",
-    "lastUpdate": "Nov 15, 2023",
+    "lastUpdate": "Nov 19, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "When bank is full, tell which item(s) that are blocking the deposit/gift"
+      },
+      {
+        "type": "feature",
+        "name": "Can now queue quests while the dependent quest is finished but pending, saving 1 tx"
+      },
       {
         "type": "feature",
         "name": "More compact and easier to use item shop when selling items"
