@@ -25,6 +25,10 @@
       },
       {
         "type": "bug",
+        "name": "No more showing 'player already invited' when typing player ID in the invite field"
+      },
+      {
+        "type": "bug",
         "name": "Modal height adjustments for better mobile experience"
       },
       {
