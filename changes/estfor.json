@@ -1,12 +1,62 @@
 [
   {
-    "version": "1.4",
-    "lastUpdate": "Nov 19, 2023",
+    "version": "1.5",
+    "lastUpdate": "Nov 29, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Frostfell Solstice event calendar"
+      },
+      {
+        "type": "feature",
+        "name": "A button to reset all items not currently in a clan bank when transferring"
+      },
+      {
+        "type": "feature",
+        "name": "Better loading of the landing page logo and button"
+      },
+      {
+        "type": "feature",
+        "name": "Better handling of time-based UI updates"
+      },
       {
         "type": "feature",
         "name": "When bank is full, tell which item(s) that are blocking the deposit/gift"
       },
+      {
+        "type": "bug",
+        "name": "Removed NaN after loot progress when being level 99"
+      },
+      {
+        "type": "bug",
+        "name": "Tooltip correction in combat when not connected"
+      },
+      {
+        "type": "bug",
+        "name": "Removed looping progress bars in the loot modal on mobile due to performance issues"
+      },
+      {
+        "type": "bug",
+        "name": "Removed Is Forgeable link in the details modal when opened from the forging page"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed scientific notation on abbreviated numbers in some special cases"
+      },
+      {
+        "type": "bug",
+        "name": "Missing hand mouse cursor on evolved hero image"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed some icons that should not be rounded"
+      }
+    ]
+  },
+  {
+    "version": "1.4",
+    "lastUpdate": "Nov 19, 2023",
+    "changes": [
       {
         "type": "feature",
         "name": "Can now queue quests while the dependent quest is finished but pending, saving 1 tx"
