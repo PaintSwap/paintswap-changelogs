@@ -25,6 +25,10 @@
       },
       {
         "type": "bug",
+        "name": "Missing scroll for combat items in the journal when dice rolls also included"
+      },
+      {
+        "type": "bug",
         "name": "Removed NaN after loot progress when being level 99"
       },
       {
