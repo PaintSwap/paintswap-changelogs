@@ -25,6 +25,10 @@
       },
       {
         "type": "bug",
+        "name": "Modal height adjustments for better mobile experience"
+      },
+      {
+        "type": "bug",
         "name": "Missing scroll for combat items in the journal when dice rolls also included"
       },
       {
