@@ -1,8 +1,12 @@
 [
   {
     "version": "1.5",
-    "lastUpdate": "Nov 29, 2023",
+    "lastUpdate": "Nov 30, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "More efficient snowfall and landing page on slower hardware"
+      },
       {
         "type": "feature",
         "name": "Frostfell Solstice event calendar"
