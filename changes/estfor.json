@@ -1,8 +1,12 @@
 [
   {
     "version": "1.5",
-    "lastUpdate": "Nov 30, 2023",
+    "lastUpdate": "Dec 2, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Toggle born / active hero statistics from normal to evolved"
+      },
       {
         "type": "feature",
         "name": "More efficient snowfall and landing page on slower hardware"
