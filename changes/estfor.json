@@ -1,8 +1,36 @@
 [
   {
     "version": "1.5",
-    "lastUpdate": "Dec 2, 2023",
+    "lastUpdate": "Dec 6, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "A new built-in crypto swap / bridge powered by LI.FI"
+      },
+      {
+        "type": "feature",
+        "name": "Custom sortable clan invites and join requests tables"
+      },
+      {
+        "type": "feature",
+        "name": "A new crypto wallet tutorial for beginners if not yet connected"
+      },
+      {
+        "type": "feature",
+        "name": "Two new quests: 'Enter the veil' and 'Forge Ahead"
+      },
+      {
+        "type": "feature",
+        "name": "Allow queuing up to 24h 59min and 59sec instead of 23h 59min and 59sec when having running actions"
+      },
+      {
+        "type": "feature",
+        "name": "Hiding 'Self Made' from special collecion items since some can't be crafted on same account"
+      },
+      {
+        "type": "feature",
+        "name": "Extra hover tooltip for hero stats to show active heroes today"
+      },
       {
         "type": "feature",
         "name": "Toggle born / active hero statistics from normal to evolved"
@@ -30,6 +58,14 @@
       {
         "type": "feature",
         "name": "When bank is full, tell which item(s) that are blocking the deposit/gift"
+      },
+      {
+        "type": "bug",
+        "name": "Show final XP progress bar when reaching level 100 in the loot modal"
+      },
+      {
+        "type": "bug",
+        "name": "Hide the X multiplier in the item name for smithing arrow heads"
       },
       {
         "type": "bug",
