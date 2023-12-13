@@ -1,5 +1,31 @@
 [
   {
+    "version": "1.6",
+    "lastUpdate": "Dec 13, 2023",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Better overall API stability"
+      },
+      {
+        "type": "feature",
+        "name": "More consistent item sorting in the shop, inventory and collection pages"
+      },
+      {
+        "type": "bug",
+        "name": "Clan upgrade button now disabled when not connected"
+      },
+      {
+        "type": "bug",
+        "name": "Better account and balance handling in the coin exchange"
+      },
+      {
+        "type": "bug",
+        "name": "The leaderboard sub tabs on mobile no longer shared with the clan page tabs"
+      }
+    ]
+  },
+  {
     "version": "1.5",
     "lastUpdate": "Dec 6, 2023",
     "changes": [
