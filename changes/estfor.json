@@ -1,11 +1,19 @@
 [
   {
     "version": "1.6",
-    "lastUpdate": "Dec 13, 2023",
+    "lastUpdate": "Dec 15, 2023",
     "changes": [
       {
         "type": "feature",
+        "name": "Clean up of contests and a new contest page for past and currently running"
+      },
+      {
+        "type": "feature",
         "name": "Better overall API stability"
+      },
+      {
+        "type": "feature",
+        "name": "A global error boundry to catch app crashes and with reporting instructions"
       },
       {
         "type": "feature",
