@@ -1,8 +1,12 @@
 [
   {
     "version": "1.6",
-    "lastUpdate": "Dec 20, 2023",
+    "lastUpdate": "Dec 24, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Now also possible to sell brush in the quick swap modal"
+      },
       {
         "type": "feature",
         "name": "Extra warning that equipment may change when changing weapon type"
