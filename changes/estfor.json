@@ -1,7 +1,7 @@
 [
   {
     "version": "1.6",
-    "lastUpdate": "Dec 24, 2023",
+    "lastUpdate": "Jan 19, 2023",
     "changes": [
       {
         "type": "feature",
@@ -34,6 +34,10 @@
       {
         "type": "feature",
         "name": "More consistent item sorting in the shop, inventory and collection pages"
+      },
+      {
+        "type": "bug",
+        "name": "Correctly loading new hero ID after minting a new hero"
       },
       {
         "type": "bug",
