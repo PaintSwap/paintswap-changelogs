@@ -1,5 +1,35 @@
 [
   {
+    "version": "1.7",
+    "lastUpdate": "Jan 30, 2023",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Clan battles with territories and BRUSH rewards!"
+      },
+      {
+        "type": "feature",
+        "name": "Collection page: Self minted NFTs are now tracked per hero. Plus a collection of the account inventory."
+      },
+      {
+        "type": "feature",
+        "name": "Search items by name in the inventory and a toggle for grid size"
+      },
+      {
+        "type": "feature",
+        "name": "A direct link to bulk list items on PaintSwap from the inventory"
+      },
+      {
+        "type": "feature",
+        "name": "24hr cooldown before a hero can be activated after being transferred to an account with boosts"
+      },
+      {
+        "type": "feature",
+        "name": "Tabs in the app settings dialog"
+      }
+    ]
+  },
+  {
     "version": "1.6",
     "lastUpdate": "Jan 19, 2023",
     "changes": [
