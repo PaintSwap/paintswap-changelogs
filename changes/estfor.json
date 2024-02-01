@@ -5,6 +5,10 @@
     "changes": [
       {
         "type": "feature",
+        "name": "Any evolved hero now gets +1 on the max points on all skills in battle"
+      },
+      {
+        "type": "feature",
         "name": "Added won brush to the battle report table"
       },
       {
@@ -53,7 +57,7 @@
       },
       {
         "type": "bug",
-        "name": "Any clan member can harvest territory owned by their clan now. Was a variable preventing this."
+        "name": "Any clan member can harvest territory owned by their clan now"
       },
       {
         "type": "bug",
