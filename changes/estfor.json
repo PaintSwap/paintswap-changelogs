@@ -1,11 +1,31 @@
 [
   {
     "version": "1.7",
-    "lastUpdate": "Jan 30, 2023",
+    "lastUpdate": "Feb 1, 2023",
     "changes": [
       {
         "type": "feature",
+        "name": "Added won brush to the battle report table"
+      },
+      {
+        "type": "feature",
+        "name": "My Warriors button is now also displayed on the clan page"
+      },
+      {
+        "type": "feature",
+        "name": "The latest clan tab is now remembered"
+      },
+      {
+        "type": "feature",
+        "name": "Better territory page design for shaking the tree. Now displaying the emitted brush all the time."
+      },
+      {
+        "type": "feature",
         "name": "Clan battles with territories and BRUSH rewards!"
+      },
+      {
+        "type": "feature",
+        "name": "Custom filters on all journal pages"
       },
       {
         "type": "feature",
@@ -26,6 +46,26 @@
       {
         "type": "feature",
         "name": "Tabs in the app settings dialog"
+      },
+      {
+        "type": "bug",
+        "name": "The order of players vs points are now correct in the battle results"
+      },
+      {
+        "type": "bug",
+        "name": "Any clan member can harvest territory owned by their clan now. Was a variable preventing this."
+      },
+      {
+        "type": "bug",
+        "name": "Can now reattack vaults using devilish finger enchantment"
+      },
+      {
+        "type": "bug",
+        "name": "Avoid crash when comparing warriors without a hero"
+      },
+      {
+        "type": "bug",
+        "name": "The selected battle enchantments are now cleared properly if switching player"
       }
     ]
   },
