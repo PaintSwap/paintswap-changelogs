@@ -1,8 +1,24 @@
 [
   {
     "version": "1.7",
-    "lastUpdate": "Feb 1, 2023",
+    "lastUpdate": "Feb 4, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Added my current locked vault to battle main panel to avoid scrolling"
+      },
+      {
+        "type": "feature",
+        "name": "Changed the tab order on the battle page and better panel design"
+      },
+      {
+        "type": "feature",
+        "name": "Now highligting your owned territory and moved it first in the list for faster harvesting"
+      },
+      {
+        "type": "feature",
+        "name": "More consistent use of brush icons in the journal that also opens the price modal"
+      },
       {
         "type": "feature",
         "name": "Any evolved hero now gets +1 on the max points on all skills in battle"
@@ -50,6 +66,26 @@
       {
         "type": "feature",
         "name": "Tabs in the app settings dialog"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed sort order for vault PvP leaderboard and the skill level sorting in battle result table"
+      },
+      {
+        "type": "bug",
+        "name": "Avoid loading wrong journal before loading the real one"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed incorrectly shown 'ready to disperse' on the battle page when not connected"
+      },
+      {
+        "type": "bug",
+        "name": "Removed a bad API call on the clan page"
+      },
+      {
+        "type": "bug",
+        "name": "Avoid navigating to wrong clan tab after leaving a clan"
       },
       {
         "type": "bug",
