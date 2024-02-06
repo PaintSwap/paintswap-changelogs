@@ -1,8 +1,28 @@
 [
   {
     "version": "1.7",
-    "lastUpdate": "Feb 4, 2023",
+    "lastUpdate": "Feb 6, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "War Cry tweet feature for battle attacks and results"
+      },
+      {
+        "type": "feature",
+        "name": "Moved the player invites button from clan page to player page (if having a clan)"
+      },
+      {
+        "type": "feature",
+        "name": "Added twitter icon button to each player in the leaderboard (if set)"
+      },
+      {
+        "type": "feature",
+        "name": "Added owned territory to clan page and better design for all the buttons"
+      },
+      {
+        "type": "feature",
+        "name": "Better design of the news page with separate panels"
+      },
       {
         "type": "feature",
         "name": "Added my current locked vault to battle main panel to avoid scrolling"
@@ -66,6 +86,10 @@
       {
         "type": "feature",
         "name": "Tabs in the app settings dialog"
+      },
+      {
+        "type": "bug",
+        "name": "Using better vault sorting when there is unclaimed brush"
       },
       {
         "type": "bug",
