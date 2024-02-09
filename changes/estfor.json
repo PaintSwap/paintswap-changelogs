@@ -1,8 +1,20 @@
 [
   {
     "version": "1.7",
-    "lastUpdate": "Feb 6, 2023",
+    "lastUpdate": "Feb 9, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "New battle enchantment: Sharpened Claw - Allow super attack on vaults for +1 rolls on all warriors"
+      },
+      {
+        "type": "feature",
+        "name": "Updated combat algorithm: Battle draws are now counted as win for the attacker instead of defender"
+      },
+      {
+        "type": "feature",
+        "name": "Can now sort by bank value in the clan leaderboard"
+      },
       {
         "type": "feature",
         "name": "War Cry tweet feature for battle attacks and results"
