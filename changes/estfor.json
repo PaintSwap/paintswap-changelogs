@@ -1,8 +1,38 @@
 [
   {
+    "version": "1.8",
+    "lastUpdate": "Feb 14, 2023",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Two new quests: Heart Strings and Alchemical Prowess"
+      },
+      {
+        "type": "feature",
+        "name": "Faster API fetches of clans and battles, improving the speed of tables and leaderboards"
+      },
+      {
+        "type": "feature",
+        "name": "When searching for players and clans: Does no longer have to start with the string"
+      },
+      {
+        "type": "bug",
+        "name": "Now displaying correct territory warrior count when attacking territories"
+      },
+      {
+        "type": "bug",
+        "name": "Made sure no more clan and battle results when entering an invalid clan name search"
+      }
+    ]
+  },
+  {
     "version": "1.7",
     "lastUpdate": "Feb 9, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Raised the price to create tier 1 clan and reduced the price for tier 2 and 3"
+      },
       {
         "type": "feature",
         "name": "New battle enchantment: Sharpened Claw - Allow super attack on vaults for +1 rolls on all warriors"
