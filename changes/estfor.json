@@ -29,6 +29,10 @@
       },
       {
         "type": "bug",
+        "name": "Navigate to correct forging tab on direct link item id"
+      },
+      {
+        "type": "bug",
         "name": "Now displaying correct territory warrior count when attacking territories"
       },
       {
