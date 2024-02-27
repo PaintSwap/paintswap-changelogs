@@ -1,8 +1,20 @@
 [
   {
     "version": "1.8",
-    "lastUpdate": "Feb 14, 2023",
+    "lastUpdate": "Feb 27, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "P2P Trading Bazaar with order book for in-game assets"
+      },
+      {
+        "type": "feature",
+        "name": "Show your own hero name as green in the leaderboard (same as clans)"
+      },
+      {
+        "type": "feature",
+        "name": "Better fit for long names in the journal"
+      },
       {
         "type": "feature",
         "name": "Two new quests: Heart Strings and Alchemical Prowess"
