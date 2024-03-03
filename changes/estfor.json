@@ -1,8 +1,24 @@
 [
   {
     "version": "1.8",
-    "lastUpdate": "Feb 29, 2023",
+    "lastUpdate": "Mar 3, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Can now search by hero ID in the leaderboard. ID displayed on the hero journal page."
+      },
+      {
+        "type": "feature",
+        "name": "Added journal events for claiming locked bank vaults"
+      },
+      {
+        "type": "feature",
+        "name": "Support twitter link on clans"
+      },
+      {
+        "type": "feature",
+        "name": "Quick-toggle to do daily wish directly in the save actions dialog"
+      },
       {
         "type": "feature",
         "name": "Display active hero of a wallet journal, inventory and collection page"
