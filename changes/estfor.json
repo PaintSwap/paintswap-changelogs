@@ -1,8 +1,24 @@
 [
   {
     "version": "1.8",
-    "lastUpdate": "Mar 3, 2023",
+    "lastUpdate": "Mar 4, 2023",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Show green notification in menu when trade claimables"
+      },
+      {
+        "type": "feature",
+        "name": "Show different colors for bazaar bulk buy vs sell in the item grid"
+      },
+      {
+        "type": "feature",
+        "name": "Added hash link to bazaar order table"
+      },
+      {
+        "type": "feature",
+        "name": "Faster loading leaderboards and less API fetches in tables when scrolling"
+      },
       {
         "type": "feature",
         "name": "Can now search by hero ID in the leaderboard. ID displayed on the hero journal page."
@@ -70,6 +86,18 @@
       {
         "type": "feature",
         "name": "When searching for players and clans: Does no longer have to start with the string"
+      },
+      {
+        "type": "bug",
+        "name": "Do not show favorite icons for boost details"
+      },
+      {
+        "type": "bug",
+        "name": "Did not render the brush icon correct in the bazaar tables on mobile"
+      },
+      {
+        "type": "bug",
+        "name": "Now showing correct progress on the global boost icon on the player stats"
       },
       {
         "type": "bug",
