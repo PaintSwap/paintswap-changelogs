@@ -1,5 +1,35 @@
 [
   {
+    "version": "1.9",
+    "lastUpdate": "Mar 5, 2023",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "If LOSING after attacking a locked clan vault you now only lose 5% of your locked funds compared to 10% before"
+      },
+      {
+        "type": "feature",
+        "name": "Custom slider to set game panels opacity from within the app settings"
+      },
+      {
+        "type": "feature",
+        "name": "Added BRUSH chart link and a button to add token to wallet on the coin exchange page"
+      },
+      {
+        "type": "feature",
+        "name": "Better and more consistent selection highlighting of action panels"
+      },
+      {
+        "type": "feature",
+        "name": "Display ALL forgable items in the forging page even if locked or not owned, with toggle to show only available"
+      },
+      {
+        "type": "feature",
+        "name": "Move the loot modal save button outside the scrolling area for quicker use"
+      }
+    ]
+  },
+  {
     "version": "1.8",
     "lastUpdate": "Mar 4, 2023",
     "changes": [
