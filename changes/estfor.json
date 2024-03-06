@@ -1,8 +1,20 @@
 [
   {
     "version": "1.9",
-    "lastUpdate": "Mar 5, 2023",
+    "lastUpdate": "Mar 6, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Mobile friendly table for the clan battle results"
+      },
+      {
+        "type": "feature",
+        "name": "Now includes clan and warrior info in hero load card"
+      },
+      {
+        "type": "feature",
+        "name": "Remove trading notification from the menu after visiting the page. Only show when new trades comes in."
+      },
       {
         "type": "feature",
         "name": "If LOSING after attacking a locked clan vault you now only lose 5% of your locked funds compared to 10% before"
@@ -26,12 +38,28 @@
       {
         "type": "feature",
         "name": "Move the loot modal save button outside the scrolling area for quicker use"
+      },
+      {
+        "type": "bug",
+        "name": "Keeping notification modal and battle result modal full opacity if using transparent panels"
+      },
+      {
+        "type": "bug",
+        "name": "Now showing correct BRUSH when clicking on the amount for claimable bazaar orders"
+      },
+      {
+        "type": "bug",
+        "name": "Added dice rolls to the journal thieving action"
+      },
+      {
+        "type": "bug",
+        "name": "Now displaying correct cooking output amount for all levels"
       }
     ]
   },
   {
     "version": "1.8",
-    "lastUpdate": "Mar 4, 2023",
+    "lastUpdate": "Mar 4, 2024",
     "changes": [
       {
         "type": "feature",
@@ -115,7 +143,7 @@
       },
       {
         "type": "feature",
-        "name": "When searching for players and clans: Does no longer have to start with the string"
+        "name": "When searching for heroes and clans: Does no longer have to start with the string"
       },
       {
         "type": "bug",
@@ -127,7 +155,7 @@
       },
       {
         "type": "bug",
-        "name": "Now showing correct progress on the global boost icon on the player stats"
+        "name": "Now showing correct progress on the global boost icon on the hero stats"
       },
       {
         "type": "bug",
@@ -153,7 +181,7 @@
   },
   {
     "version": "1.7",
-    "lastUpdate": "Feb 9, 2023",
+    "lastUpdate": "Feb 9, 2024",
     "changes": [
       {
         "type": "feature",
@@ -177,11 +205,11 @@
       },
       {
         "type": "feature",
-        "name": "Moved the player invites button from clan page to player page (if having a clan)"
+        "name": "Moved the heroe invites button from clan page to hero page (if having a clan)"
       },
       {
         "type": "feature",
-        "name": "Added twitter icon button to each player in the leaderboard (if set)"
+        "name": "Added twitter icon button to each hero in the leaderboard (if set)"
       },
       {
         "type": "feature",
@@ -281,7 +309,7 @@
       },
       {
         "type": "bug",
-        "name": "The order of players vs points are now correct in the battle results"
+        "name": "The order of heroes vs points are now correct in the battle results"
       },
       {
         "type": "bug",
@@ -297,13 +325,13 @@
       },
       {
         "type": "bug",
-        "name": "The selected battle enchantments are now cleared properly if switching player"
+        "name": "The selected battle enchantments are now cleared properly if switching hero"
       }
     ]
   },
   {
     "version": "1.6",
-    "lastUpdate": "Jan 19, 2023",
+    "lastUpdate": "Jan 19, 2024",
     "changes": [
       {
         "type": "feature",
@@ -433,7 +461,7 @@
       },
       {
         "type": "bug",
-        "name": "No more showing 'player already invited' when typing player ID in the invite field"
+        "name": "No more showing 'hero already invited' when typing hero ID in the invite field"
       },
       {
         "type": "bug",
@@ -491,7 +519,7 @@
       },
       {
         "type": "feature",
-        "name": "Allow sorting by evolved players in the leaderboard"
+        "name": "Allow sorting by evolved heroes in the leaderboard"
       },
       {
         "type": "feature",
@@ -531,7 +559,7 @@
       },
       {
         "type": "feature",
-        "name": "Activity torches also in clan join requests table and on player profile page"
+        "name": "Activity torches also in clan join requests table and on hero profile page"
       },
       {
         "type": "feature",
@@ -593,7 +621,7 @@
       },
       {
         "type": "feature",
-        "name": "NFT gatekeeping where only players with certain NFTs can join a clan."
+        "name": "NFT gatekeeping where only heroes with certain NFTs can join a clan."
       },
       {
         "type": "feature",
@@ -739,11 +767,11 @@
       },
       {
         "type": "bug",
-        "name": "More stable loading of players when switching wallet accounts, solving 'infinite loading'"
+        "name": "More stable loading of heroes when switching wallet accounts, solving 'infinite loading'"
       },
       {
         "type": "bug",
-        "name": "Switching wallet account before transactions are confirmed no longer shows wrong action data for the new player"
+        "name": "Switching wallet account before transactions are confirmed no longer shows wrong action data for the new hero"
       },
       {
         "type": "bug",
@@ -763,11 +791,11 @@
       },
       {
         "type": "bug",
-        "name": "Corrected combat layout when no player loaded"
+        "name": "Corrected combat layout when no hero loaded"
       },
       {
         "type": "bug",
-        "name": "Removed action panel in wishing well when no player loaded"
+        "name": "Removed action panel in wishing well when no hero loaded"
       },
       {
         "type": "bug",
@@ -781,7 +809,7 @@
     "changes": [
       {
         "type": "feature",
-        "name": "Refreshing hero comparison table on the leaderboard page when player stats update"
+        "name": "Refreshing hero comparison table on the leaderboard page when hero stats update"
       },
       {
         "type": "feature",
@@ -813,7 +841,7 @@
       },
       {
         "type": "feature",
-        "name": "Added background panel to player/clan name in the shop"
+        "name": "Added background panel to hero/clan name in the shop"
       },
       {
         "type": "feature",
@@ -881,11 +909,11 @@
       },
       {
         "type": "bug",
-        "name": "Resetting approve brush botton state after switching player"
+        "name": "Resetting approve brush botton state after switching hero"
       },
       {
         "type": "bug",
-        "name": "Added born hero player name in wallet journal"
+        "name": "Added born hero hero name in wallet journal"
       },
       {
         "type": "bug",
@@ -893,7 +921,7 @@
       },
       {
         "type": "bug",
-        "name": "Now remembers the refill boost when changing page or player"
+        "name": "Now remembers the refill boost when changing page or hero"
       },
       {
         "type": "bug",
