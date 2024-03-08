@@ -1,8 +1,20 @@
 [
   {
     "version": "1.9",
-    "lastUpdate": "Mar 6, 2024",
+    "lastUpdate": "Mar 8, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Improved quest descriptions"
+      },
+      {
+        "type": "feature",
+        "name": "Displaying more tooltips on the game stat page"
+      },
+      {
+        "type": "feature",
+        "name": "Displaying the clan bonus points when evolving hero"
+      },
       {
         "type": "feature",
         "name": "Mobile friendly table for the clan battle results"
@@ -38,6 +50,14 @@
       {
         "type": "feature",
         "name": "Move the loot modal save button outside the scrolling area for quicker use"
+      },
+      {
+        "type": "bug",
+        "name": "Made sure to fetch the absolute latest bazaar order table data"
+      },
+      {
+        "type": "bug",
+        "name": "Use correct output rate for forging and firemaking"
       },
       {
         "type": "bug",
