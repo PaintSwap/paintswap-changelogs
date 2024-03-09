@@ -1,8 +1,12 @@
 [
   {
     "version": "1.9",
-    "lastUpdate": "Mar 8, 2024",
+    "lastUpdate": "Mar 9, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Show brush conversion modal in more places"
+      },
       {
         "type": "feature",
         "name": "Improved quest descriptions"
@@ -50,6 +54,14 @@
       {
         "type": "feature",
         "name": "Move the loot modal save button outside the scrolling area for quicker use"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed double dice rolls images shown for combat in the journal"
+      },
+      {
+        "type": "bug",
+        "name": "Display favorite boosts at the top of the list when selecting them"
       },
       {
         "type": "bug",
