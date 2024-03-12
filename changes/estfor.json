@@ -1,8 +1,16 @@
 [
   {
     "version": "1.9",
-    "lastUpdate": "Mar 9, 2024",
+    "lastUpdate": "Mar 12, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "12h cooldown added to the clan vault protection shield enchantment (after it runs out, meaning total 48 + 12h until next)"
+      },
+      {
+        "type": "feature",
+        "name": "Added helper tooltips to the wallet journal stats panel"
+      },
       {
         "type": "feature",
         "name": "Show brush conversion modal in more places"
