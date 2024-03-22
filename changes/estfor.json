@@ -1,5 +1,43 @@
 [
   {
+    "version": "1.10",
+    "lastUpdate": "Mar 22, 2024",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Expanded forging: 20 new infused items + 20 new upgradeable items with 5 possible levels each. Total 120 new items where 100 can be equipped."
+      },
+      {
+        "type": "feature",
+        "name": "More consistent UI when dealing with the attire equipment in combat"
+      },
+      {
+        "type": "feature",
+        "name": "Added battle points (D2 rolls) to hero home stat page"
+      },
+      {
+        "type": "feature",
+        "name": "Account can now be switched after transfering items without the new grid selection to be cleared when previous transaction finishes"
+      },
+      {
+        "type": "bug",
+        "name": "Removed boost notifications to be shown when other notifications are shown (if already shown)"
+      },
+      {
+        "type": "bug",
+        "name": "Columns adjusted in the leaderboard to not get a scrollbar on desktop"
+      },
+      {
+        "type": "bug",
+        "name": "Made modal solid background when comparing battle warriors (if using transparent panels)"
+      },
+      {
+        "type": "bug",
+        "name": "Wrap long words in the clan's pinned message on mobile to avoid overflowing the screen"
+      }
+    ]
+  },
+  {
     "version": "1.9",
     "lastUpdate": "Mar 12, 2024",
     "changes": [
