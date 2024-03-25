@@ -1,8 +1,16 @@
 [
   {
     "version": "1.10",
-    "lastUpdate": "Mar 22, 2024",
+    "lastUpdate": "Mar 25, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Reduced BRUSH cost: Boosts and cages in-game shop down by 20%, flux by 50% || Wishing well 12 -> 10 || Editing clan name 500 -> 300 || Evolving hero 1000 -> 700 || Edit hero name 500 -> 300 || Clan upgrades T1 150 -> 100, T2 350 -> 250, T3 2500 -> 2000"
+      },
+      {
+        "type": "feature",
+        "name": "When clicking on the order book rows, it will now accumulate the amount of the ones below/above"
+      },
       {
         "type": "feature",
         "name": "Expanded forging: 20 new infused items + 20 new upgradeable items with 5 possible levels each. Total 120 new items where 100 can be equipped."
