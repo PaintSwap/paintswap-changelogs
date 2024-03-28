@@ -1,11 +1,19 @@
 [
   {
     "version": "1.10",
-    "lastUpdate": "Mar 25, 2024",
+    "lastUpdate": "Mar 28, 2024",
     "changes": [
       {
         "type": "feature",
-        "name": "Disallowed 25h queueing of actions directly after saving actions. Available after 1 hour, mostly for having better UI/UX."
+        "name": "Allow all bazaar trade items to show even when not being connected"
+      },
+      {
+        "type": "feature",
+        "name": "Better scrolling behavior in the journal and bazaar tables"
+      },
+      {
+        "type": "feature",
+        "name": "Disallowed 25h queueing of actions directly after saving actions. Now available after 1 hour, mostly for having better UI/UX."
       },
       {
         "type": "feature",
@@ -30,6 +38,10 @@
       {
         "type": "feature",
         "name": "Account can now be switched after transfering items without the new grid selection to be cleared when previous transaction finishes"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed blocking clan invite button on the home page when not being in a clan, but it said so"
       },
       {
         "type": "bug",
