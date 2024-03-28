@@ -41,6 +41,10 @@
       },
       {
         "type": "bug",
+        "name": "Corrected the cooldown used after using Sharpened Claw enchantment on a vault attack. Now 24h cooldown instead of 4 days."
+      },
+      {
+        "type": "bug",
         "name": "Fixed blocking clan invite button on the home page when not being in a clan, but it said so"
       },
       {
