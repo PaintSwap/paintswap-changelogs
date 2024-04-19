@@ -1,8 +1,20 @@
 [
   {
     "version": "1.10",
-    "lastUpdate": "Mar 28, 2024",
+    "lastUpdate": "Apr 19, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Egg incubation, hatching and pet farming for combat companions"
+      },
+      {
+        "type": "feature",
+        "name": "Added buttons to cancel an active clan join request from 'my clan' and 'requested clan'"
+      },
+      {
+        "type": "feature",
+        "name": "Featuring Wormhole USDC.e in the Coin Exchange swap interface"
+      },
       {
         "type": "feature",
         "name": "Allow all bazaar trade items to show even when not being connected"
@@ -38,6 +50,18 @@
       {
         "type": "feature",
         "name": "Account can now be switched after transfering items without the new grid selection to be cleared when previous transaction finishes"
+      },
+      {
+        "type": "bug",
+        "name": "Clicking on any link leading to your own clan will now take you to 'my clan' instead of the leaderboard tab"
+      },
+      {
+        "type": "bug",
+        "name": "No longer deselecting P2P trade item when navigating to the same item twice"
+      },
+      {
+        "type": "bug",
+        "name": "Correct handling and separation of invalid actions regardless of being finished or pending"
       },
       {
         "type": "bug",
