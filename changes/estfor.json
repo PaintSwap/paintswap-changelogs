@@ -1,5 +1,19 @@
 [
   {
+    "version": "1.11",
+    "lastUpdate": "Apr 20, 2024",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Better color gradients for the progress bars"
+      },
+      {
+        "type": "bug",
+        "name": "Use correct scroll height for mobile modal when selecting equipment/tools/food/pets"
+      }
+    ]
+  },
+  {
     "version": "1.10",
     "lastUpdate": "Apr 19, 2024",
     "changes": [
