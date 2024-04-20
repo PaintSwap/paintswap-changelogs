@@ -9,6 +9,10 @@
       },
       {
         "type": "bug",
+        "name": "Fixed app crash on certain tooltips when using google translate"
+      },
+      {
+        "type": "bug",
         "name": "Use correct scroll height for mobile modal when selecting equipment/tools/food/pets"
       }
     ]
