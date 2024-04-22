@@ -1,11 +1,35 @@
 [
   {
     "version": "1.11",
-    "lastUpdate": "Apr 21, 2024",
+    "lastUpdate": "Apr 22, 2024",
     "changes": [
       {
         "type": "feature",
+        "name": "Warn if hero has a passive action ongoing, if transfer is attempted"
+      },
+      {
+        "type": "feature",
+        "name": "Faster API fetching of clan data"
+      },
+      {
+        "type": "feature",
+        "name": "Insta-scroll to global stats on the landing page (to avoid stopping too early)"
+      },
+      {
+        "type": "feature",
         "name": "Better color gradients for the progress bars"
+      },
+      {
+        "type": "bug",
+        "name": "Visual correction of evolved avatar in item transfer modal"
+      },
+      {
+        "type": "bug",
+        "name": "Removed 'you are lvl 0' from weapon stats tooltips"
+      },
+      {
+        "type": "bug",
+        "name": "Correctly show if items are missing for the action modal, even for other players"
       },
       {
         "type": "bug",
