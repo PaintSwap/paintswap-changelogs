@@ -1,11 +1,23 @@
 [
   {
     "version": "1.11",
-    "lastUpdate": "Apr 20, 2024",
+    "lastUpdate": "Apr 21, 2024",
     "changes": [
       {
         "type": "feature",
         "name": "Better color gradients for the progress bars"
+      },
+      {
+        "type": "bug",
+        "name": "1kin redeem codes works again"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed an issue where the send button was disabled when doing single item or pet transfer"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed invalid action when saving due to invalid pet ID in special cases"
       },
       {
         "type": "bug",
