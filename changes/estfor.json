@@ -21,6 +21,10 @@
       },
       {
         "type": "bug",
+        "name": "Fixed disabled button when upgrading a clan to higher tier"
+      },
+      {
+        "type": "bug",
         "name": "Visual correction of evolved avatar in item transfer modal"
       },
       {
