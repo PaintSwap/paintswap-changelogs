@@ -1,8 +1,12 @@
 [
   {
     "version": "1.11",
-    "lastUpdate": "Apr 22, 2024",
+    "lastUpdate": "Apr 26, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Better text in loot modal when making wish and having winner boost"
+      },
       {
         "type": "feature",
         "name": "Warn if hero has a passive action ongoing, if transfer is attempted"
@@ -18,6 +22,10 @@
       {
         "type": "feature",
         "name": "Better color gradients for the progress bars"
+      },
+      {
+        "type":"bug",
+        "name":"Correctly resetting pending passive action if switched account before tx finished"
       },
       {
         "type": "bug",
