@@ -25,6 +25,14 @@
       },
       {
         "type":"bug",
+        "name":"Don't select forging items when clicking on their info button"
+      },
+      {
+        "type":"bug",
+        "name":"Only show genesis eggs as 'New Item' when looting eggs"
+      },
+      {
+        "type":"bug",
         "name":"Made sure the clan chat is scrolling to the bottom on initial load"
       },
       {
