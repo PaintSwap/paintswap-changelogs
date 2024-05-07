@@ -29,6 +29,10 @@
       },
       {
         "type":"bug",
+        "name":"Forging now visible on the card on the hero load page"
+      },
+      {
+        "type":"bug",
         "name":"Don't select forging items when clicking on their info button"
       },
       {
