@@ -1,8 +1,12 @@
 [
   {
     "version": "1.11",
-    "lastUpdate": "May 6, 2024",
+    "lastUpdate": "May 13, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Removed levelled up infused items from game progress and collection page (kept infused items). Was near impossible to 'complete' the game."
+      },
       {
         "type": "feature",
         "name": "Lowered XP rate on forging Infused Orichalcum Helmet from 1000 to 300 and Orichalcum Armor from 1000 to 500."
