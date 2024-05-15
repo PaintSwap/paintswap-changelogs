@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.12",
+    "lastUpdate": "May 15, 2024",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Large internal upgrade of wallet integration (web3modal, wagmi, viem) for better performance and stability"
+      }
+    ]
+  },
+  {
     "version": "1.11",
     "lastUpdate": "May 13, 2024",
     "changes": [
