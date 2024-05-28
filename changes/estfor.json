@@ -5,6 +5,11 @@
     "changes": [
       {
         "type": "feature",
+        "name": "Show timestamps for all changelog entries from this version forward",
+        "lastUpdate": "May 28, 2024"
+      },
+      {
+        "type": "feature",
         "name": "Game Tips for new users who haven't discovered certain features yet",
         "lastUpdate": "May 28, 2024"
       },
