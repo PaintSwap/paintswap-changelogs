@@ -1,11 +1,22 @@
 [
   {
     "version": "1.12",
-    "lastUpdate": "May 15, 2024",
+    "lastUpdate": "May 28, 2024",
     "changes": [
       {
         "type": "feature",
-        "name": "Large internal upgrade of wallet integration (web3modal, wagmi, viem) for better performance and stability"
+        "name": "Game Tips for new users who haven't discovered certain features yet",
+        "lastUpdate": "May 28, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Fully customizable granular journal filters for all events",
+        "lastUpdate": "May 28, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Large internal upgrade of wallet integration (web3modal, wagmi, viem) for better performance and stability",
+        "lastUpdate": "May 15, 2024"
       }
     ]
   },
