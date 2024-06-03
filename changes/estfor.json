@@ -1,8 +1,13 @@
 [
   {
     "version": "1.12",
-    "lastUpdate": "May 28, 2024",
+    "lastUpdate": "Jun 03, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Bulk invites possible for new clan members",
+        "lastUpdate": "Jun 02, 2024"
+      },
       {
         "type": "feature",
         "name": "Show timestamps for all changelog entries from this version forward",
@@ -22,6 +27,21 @@
         "type": "feature",
         "name": "Large internal upgrade of wallet integration for better performance and stability",
         "lastUpdate": "May 15, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Prevent reloading the page when hitting Enter inside input fields",
+        "lastUpdate": "Jun 03, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Corrected inconsistency for invalid values in the price converter modal",
+        "lastUpdate": "Jun 03, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Now disables accept clan join request button when the clan is full",
+        "lastUpdate": "Jun 03, 2024"
       }
     ]
   },
