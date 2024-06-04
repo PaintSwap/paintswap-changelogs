@@ -30,6 +30,11 @@
       },
       {
         "type": "bug",
+        "name": "Cage was mistakenly powerful enough to catch all fish due to a tokenId mismatch. To correct this, Cage and Large Net have been swapped in tokenId. All holders that had one of them (and not both) have been airdropped their counter-part to avoid any fish loss.",
+        "lastUpdate": "Jun 03, 2024"
+      },
+      {
+        "type": "bug",
         "name": "Prevent reloading the page when hitting Enter inside input fields",
         "lastUpdate": "Jun 03, 2024"
       },
