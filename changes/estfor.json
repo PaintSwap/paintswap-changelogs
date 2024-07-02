@@ -1,8 +1,89 @@
 [
   {
-    "version": "1.12",
-    "lastUpdate": "Jun 03, 2024",
+    "version": "1.13",
+    "lastUpdate": "Jul 02, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Monster drop adjustments: Snapper Bug (10 nature keys/day), Obgora (10 aqua keys/day), Squiggle Egg (10 nature keys/day), Elemental Dragon (dragon chest instead of dragon key), Erkad (bone chest instead of nature key), Bone key and other items dropped from new monsters",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Added rings to be forged into elixium (forging page)",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Fragment system to combine parts into whole items (smithing, crafting and fletching pages)",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Chest and key system to reveal bonus items (thieving page)",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Added 5 new actions in thieving (monster areas)",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Added 15 new actions in woodcutting, mining, fishing that gives multiple output items including dice rolls",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Combat: Added 7 new mountain monsters, ring attachment and arrows with poison/fire effects (poison and brimstone)",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Added 27 new quests",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "New items added: 6 rings, 20 fragments, 17 chests, brimstone and coin",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Transfer different items (or bank distribution) to multiple recipients in one transaction. Also supports splitting a single item into multiple recipients.",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Bulk edit clan member roles",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Better design of the game tips popup, with a disable option",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Show already paid, remaining and refund when editing buy orders in the bazaar",
+        "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Max possible brush price in the Bazaar increased from 1844 to 4722 BRUSH",
+        "lastUpdate": "Jul 02, 2024"
+      }
+    ]
+  },
+  {
+    "version": "1.12",
+    "lastUpdate": "Jun 09, 2024",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Optimized contracts for selling in bulk to the store",
+        "lastUpdate": "Jun 09, 2024"
+      },
       {
         "type": "feature",
         "name": "Bulk invites possible for new clan members",
