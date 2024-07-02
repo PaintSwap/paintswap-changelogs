@@ -72,6 +72,11 @@
         "type": "feature",
         "name": "Max possible brush price in the Bazaar increased from 1844 to 4722 BRUSH",
         "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Allow edit player and clan social links without changing the name",
+        "lastUpdate": "Jul 02, 2024"
       }
     ]
   },
