@@ -1,8 +1,18 @@
 [
   {
     "version": "1.13",
-    "lastUpdate": "Jul 05, 2024",
+    "lastUpdate": "Jul 06, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Added dice rolls column to the clan battle warriors table",
+        "lastUpdate": "Jul 06, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Better placeholder icons for combat page",
+        "lastUpdate": "Jul 06, 2024"
+      },
       {
         "type": "feature",
         "name": "Monster drop adjustments: Snapper Bug (10 nature keys/day), Obgora (10 aqua keys/day), Squiggle Egg (10 nature keys/day), Elemental Dragon (dragon chest instead of dragon key), Erkad (bone chest instead of nature key), Bone key and other items dropped from new monsters",
@@ -72,6 +82,11 @@
         "type": "feature",
         "name": "Max possible brush price in the Bazaar increased from 1844 to 4722 BRUSH",
         "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Adjusted to correct background color for hero comparison table",
+        "lastUpdate": "Jul 06, 2024"
       },
       {
         "type": "bug",
