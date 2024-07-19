@@ -1,8 +1,28 @@
 [
   {
     "version": "1.13",
-    "lastUpdate": "Jul 06, 2024",
+    "lastUpdate": "Jul 19, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Allow typing decimals in the quick swap feature",
+        "lastUpdate": "Jul 19, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Upgraded to latest wallet libraries and Li.Fi exchange widget",
+        "lastUpdate": "Jul 19, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Better logic when selecting/replacing combat equipment",
+        "lastUpdate": "Jul 10, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Design fixes for single item transfer modal",
+        "lastUpdate": "Jul 10, 2024"
+      },
       {
         "type": "feature",
         "name": "Added dice rolls column to the clan battle warriors table",
