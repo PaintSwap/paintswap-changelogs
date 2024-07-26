@@ -1,8 +1,28 @@
 [
   {
     "version": "1.13",
-    "lastUpdate": "Jul 22, 2024",
+    "lastUpdate": "Jul 26, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Implemented a MMR (MatchMaking Rating) system for clan vault battles",
+        "lastUpdate": "Jul 26, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Major re-balance of the HP stats for heroes, equipment and pets. HP bonus now reduces the fish consumption in combat.",
+        "lastUpdate": "Jul 26, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Replaced Chainlink VRF with SamWitch VRF for the daily oracle call, fully utilising it in all aspects of Estfor",
+        "lastUpdate": "Jul 26, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Removed the Evolved filter from the main leaderboard as it didn't make much sense",
+        "lastUpdate": "Jul 26, 2024"
+      },
       {
         "type": "feature",
         "name": "Allow typing decimals in the quick swap feature",
@@ -102,6 +122,11 @@
         "type": "feature",
         "name": "Max possible brush price in the Bazaar increased from 1844 to 4722 BRUSH",
         "lastUpdate": "Jul 02, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Poison and Brimstone can now be selected on arrows when having low Range skill",
+        "lastUpdate": "Jul 26, 2024"
       },
       {
         "type": "bug",
