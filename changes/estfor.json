@@ -1,5 +1,16 @@
 [
   {
+    "version": "1.14",
+    "lastUpdate": "Aug 12, 2024",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Added MMR limit when attacking clan territories",
+        "lastUpdate": "Aug 12, 2024"
+      }
+    ]
+  },
+  {
     "version": "1.13",
     "lastUpdate": "Jul 26, 2024",
     "changes": [
