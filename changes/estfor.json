@@ -1,8 +1,18 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Aug 12, 2024",
+    "lastUpdate": "Aug 16, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Removed RPC selection in the app settings. Now automatic polling for the best RPC (including fallback). Can also communicate through the wallet RPC if that's higher ranked.",
+        "lastUpdate": "Aug 16, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Migration from Web3.js to Viem/Wagmi for modern functionality and lower app size",
+        "lastUpdate": "Aug 16, 2024"
+      },
       {
         "type": "feature",
         "name": "Added MMR limit when attacking clan territories",
