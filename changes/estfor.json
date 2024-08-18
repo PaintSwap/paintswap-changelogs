@@ -20,6 +20,11 @@
       },
       {
         "type": "bug",
+        "name": "Displays correct forging obtain amount (0) when below required set amount",
+        "lastUpdate": "Aug 18, 2024"
+      },
+      {
+        "type": "bug",
         "name": "Now displays correct quest progress value (also when completed)",
         "lastUpdate": "Aug 18, 2024"
       }
