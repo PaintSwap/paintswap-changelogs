@@ -1,8 +1,18 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Aug 18, 2024",
+    "lastUpdate": "Aug 25, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Anniversary event: A new monster, a chest, a key, a ring and 5 eggs to discover during the 2 week event",
+        "lastUpdate": "Aug 25, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "New main landing page! Also a loading splash screen, game cursors and reduced (initial) load time by 50%",
+        "lastUpdate": "Aug 25, 2024"
+      },
       {
         "type": "feature",
         "name": "Removed RPC selection in the app settings. Now automatic polling for the best RPC (including fallback). Can also communicate through the wallet RPC if that's higher ranked.",
