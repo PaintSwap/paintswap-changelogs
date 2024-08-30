@@ -1,7 +1,7 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Aug 25, 2024",
+    "lastUpdate": "Aug 30, 2024",
     "changes": [
       {
         "type": "feature",
@@ -27,6 +27,11 @@
         "type": "feature",
         "name": "Added MMR limit when attacking clan territories",
         "lastUpdate": "Aug 12, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed a bug where clans could not always target all the locked bank vaults in the attack range",
+        "lastUpdate": "Aug 30, 2024"
       },
       {
         "type": "bug",
