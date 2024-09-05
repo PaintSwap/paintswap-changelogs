@@ -1,7 +1,7 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Aug 30, 2024",
+    "lastUpdate": "Sep 05, 2024",
     "changes": [
       {
         "type": "feature",
@@ -27,6 +27,11 @@
         "type": "feature",
         "name": "Added MMR limit when attacking clan territories",
         "lastUpdate": "Aug 12, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Remember last selected monster when navigating to the monster page",
+        "lastUpdate": "Sep 05, 2024"
       },
       {
         "type": "bug",
