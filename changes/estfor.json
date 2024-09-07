@@ -1,8 +1,18 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Sep 05, 2024",
+    "lastUpdate": "Sep 07, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "The battle outcome MMR is now displayed in the results pop up",
+        "lastUpdate": "Sep 07, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Warn if trying to transfer a pet that is currently used in combat",
+        "lastUpdate": "Sep 07, 2024"
+      },
       {
         "type": "feature",
         "name": "Anniversary event: A new monster, a chest, a key, a ring and 5 eggs to discover during the 2 week event",
