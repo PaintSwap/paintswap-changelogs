@@ -1,8 +1,18 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Sep 07, 2024",
+    "lastUpdate": "Sep 09, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Added a direct link to unlock chest from the item detail modal",
+        "lastUpdate": "Sep 09, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Faster overall transaction speed",
+        "lastUpdate": "Sep 09, 2024"
+      },
       {
         "type": "feature",
         "name": "The battle outcome MMR is now displayed in the results pop up",
