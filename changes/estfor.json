@@ -1,8 +1,13 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Sep 09, 2024",
+    "lastUpdate": "Sep 16, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Reduced the intro text for new users connecting their wallet",
+        "lastUpdate": "Sep 16, 2024"
+      },
       {
         "type": "feature",
         "name": "Added a direct link to unlock chest from the item detail modal",
