@@ -1,8 +1,18 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Sep 16, 2024",
+    "lastUpdate": "Sep 19, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Reduced API calls when being inactive",
+        "lastUpdate": "Sep 19, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Automatic detection of new frontend app version with a notification",
+        "lastUpdate": "Sep 18, 2024"
+      },
       {
         "type": "feature",
         "name": "Reduced the intro text for new users connecting their wallet",
@@ -52,6 +62,16 @@
         "type": "feature",
         "name": "Added MMR limit when attacking clan territories",
         "lastUpdate": "Aug 12, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Now automatically refreshing the app on navigation if trying to load old javascript references",
+        "lastUpdate": "Sep 19, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Removed the evolved checkbox from the battle leaderboard (same as normal leaderboard)",
+        "lastUpdate": "Sep 18, 2024"
       },
       {
         "type": "bug",
