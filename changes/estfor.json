@@ -1,8 +1,13 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Sep 19, 2024",
+    "lastUpdate": "Sep 24, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Added page links to all quests",
+        "lastUpdate": "Sep 24, 2024"
+      },
       {
         "type": "feature",
         "name": "Reduced API calls when being inactive",
@@ -62,6 +67,11 @@
         "type": "feature",
         "name": "Added MMR limit when attacking clan territories",
         "lastUpdate": "Aug 12, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed a bug where clans could not be created with underscore in the twitter handle",
+        "lastUpdate": "Sep 22, 2024"
       },
       {
         "type": "bug",
