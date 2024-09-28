@@ -1,8 +1,18 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Sep 24, 2024",
+    "lastUpdate": "Sep 28, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Optimized API fetching",
+        "lastUpdate": "Sep 27, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Updated wallet integration libraries",
+        "lastUpdate": "Sep 27, 2024"
+      },
       {
         "type": "feature",
         "name": "Added page links to all quests",
@@ -67,6 +77,11 @@
         "type": "feature",
         "name": "Added MMR limit when attacking clan territories",
         "lastUpdate": "Aug 12, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed reloading issue on the journal and bazaar pages",
+        "lastUpdate": "Sep 28, 2024"
       },
       {
         "type": "bug",
