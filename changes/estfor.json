@@ -1,7 +1,7 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Sep 28, 2024",
+    "lastUpdate": "Oct 03, 2024",
     "changes": [
       {
         "type": "feature",
@@ -77,6 +77,11 @@
         "type": "feature",
         "name": "Added MMR limit when attacking clan territories",
         "lastUpdate": "Aug 12, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Stop storing api query cache in browser local storage",
+        "lastUpdate": "Oct 03, 2024"
       },
       {
         "type": "bug",
