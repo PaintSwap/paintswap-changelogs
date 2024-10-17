@@ -1,8 +1,18 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Oct 03, 2024",
+    "lastUpdate": "Oct 17, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Items sold in the shop now goes to a 'black hole' contract instead of being burned. Still made inaccessible forever, but with maintained stats.",
+        "lastUpdate": "Oct 17, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Added a message when the avatar is missing when creating a clan",
+        "lastUpdate": "Oct 17, 2024"
+      },
       {
         "type": "feature",
         "name": "Optimized API fetching",
@@ -77,6 +87,26 @@
         "type": "feature",
         "name": "Added MMR limit when attacking clan territories",
         "lastUpdate": "Aug 12, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Respect isTransferable when opening the item detail modal from the actionProgress panel",
+        "lastUpdate": "Oct 17, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Added some missing purchase info when editing an order while the last known tab is 'multi-order'. Also solved some bugs related to approving brush while in that particular state.",
+        "lastUpdate": "Oct 17, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Only append owned items in custody (to owned amount) when editing a sell order, not for buy orders",
+        "lastUpdate": "Oct 17, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Hide address validation tooltip if single item transfer",
+        "lastUpdate": "Oct 17, 2024"
       },
       {
         "type": "bug",
