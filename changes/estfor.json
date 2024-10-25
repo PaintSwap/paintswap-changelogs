@@ -1,7 +1,7 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Oct 24, 2024",
+    "lastUpdate": "Oct 25, 2024",
     "changes": [
       {
         "type": "feature",
@@ -92,6 +92,11 @@
         "type": "feature",
         "name": "Added MMR limit when attacking clan territories",
         "lastUpdate": "Aug 12, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Use correct hash divider in the journal even when using filters",
+        "lastUpdate": "Oct 25, 2024"
       },
       {
         "type": "bug",
