@@ -1,8 +1,13 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Oct 25, 2024",
+    "lastUpdate": "Oct 29, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "More battle result matches on name search",
+        "lastUpdate": "Oct 29, 2024"
+      },
       {
         "type": "feature",
         "name": "Halloween event with new items: Ring of Tur, Kephri Amulet, Liffyn, Vanaglot, Fangenstorm, Kragstyr eggs and pets, trick and treat chests and key. 3 limited monsters to fight during the event. Coins to be minted daily and forged into items.",
