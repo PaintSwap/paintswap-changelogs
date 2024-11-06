@@ -1,7 +1,7 @@
 [
   {
     "version": "1.14",
-    "lastUpdate": "Oct 29, 2024",
+    "lastUpdate": "Nov 06, 2024",
     "changes": [
       {
         "type": "feature",
@@ -97,6 +97,11 @@
         "type": "feature",
         "name": "Added MMR limit when attacking clan territories",
         "lastUpdate": "Aug 12, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Allow favorite equipment to be equipped",
+        "lastUpdate": "Nov 06, 2024"
       },
       {
         "type": "bug",
