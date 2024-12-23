@@ -1,5 +1,21 @@
 [
   {
+    "version": "2.0",
+    "lastUpdate": "Dec 23, 2024",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Lots of new game content! Will be update here shortly.",
+        "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Migrated from Fantom Opera to Sonic chain!",
+        "lastUpdate": "Dec 23, 2024"
+      }
+    ]
+  },
+  {
     "version": "1.14",
     "lastUpdate": "Nov 06, 2024",
     "changes": [
