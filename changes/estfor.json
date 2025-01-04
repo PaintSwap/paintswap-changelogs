@@ -1,8 +1,23 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Dec 23, 2024",
+    "lastUpdate": "Jan 04, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "New winter background and logos + animation effect on landing page",
+        "lastUpdate": "Jan 04, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Migrating from web3modal to reown appkit, including latest wallet libraries. Removing lifi widget in the exchange due to compatibility issues.",
+        "lastUpdate": "Dec 30, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Detailed toast error messages",
+        "lastUpdate": "Dec 26, 2024"
+      },
       {
         "type": "feature",
         "name": "Lots of new game content! A new farming skill, levels beyond 100, 159 new items, 250+ new game actions, 9 new quests! Expanded combat system with new boosts and weapons. Advanced game balancing and bot mitigation.",
@@ -12,6 +27,41 @@
         "type": "feature",
         "name": "Migrated from Fantom Opera to Sonic chain!",
         "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Add back missing text color style for matched account in various places",
+        "lastUpdate": "Jan 4, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Show correct skill contest winner badge on the journal page",
+        "lastUpdate": "Jan 3, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Fix correct wiki links on latest news page",
+        "lastUpdate": "Jan 1, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Add missing alchemy brew potions",
+        "lastUpdate": "Dec 28, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Use correct chainId for clan NFT gatekeeping",
+        "lastUpdate": "Dec 27, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Allow firemaking charcoal",
+        "lastUpdate": "Dec 27, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Use correct action IDs for mining, fishing and woodcutting",
+        "lastUpdate": "Dec 26, 2024"
       }
     ]
   },
