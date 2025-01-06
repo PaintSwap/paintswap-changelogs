@@ -5,6 +5,11 @@
     "changes": [
       {
         "type": "feature",
+        "name": "Arrow badges for new toxin effects",
+        "lastUpdate": "Jan 06, 2024"
+      },
+      {
+        "type": "feature",
         "name": "Made app 10% smaller on mobile devices, allow 200% zoom",
         "lastUpdate": "Jan 06, 2024"
       },
@@ -42,6 +47,11 @@
         "type": "feature",
         "name": "Migrated from Fantom Opera to Sonic chain!",
         "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Disable loot modal if not enough brush when wishing",
+        "lastUpdate": "Jan 6, 2024"
       },
       {
         "type": "bug",
