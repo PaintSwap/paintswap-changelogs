@@ -1,8 +1,13 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Jan 06, 2024",
+    "lastUpdate": "Jan 09, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Better names for healing potions",
+        "lastUpdate": "Jan 09, 2024"
+      },
       {
         "type": "feature",
         "name": "Arrow badges for new toxin effects",
@@ -47,6 +52,11 @@
         "type": "feature",
         "name": "Migrated from Fantom Opera to Sonic chain!",
         "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Prevent app crash when using google translate on the tutorial component",
+        "lastUpdate": "Jan 9, 2024"
       },
       {
         "type": "bug",
