@@ -1,7 +1,7 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Jan 09, 2024",
+    "lastUpdate": "Jan 10, 2024",
     "changes": [
       {
         "type": "feature",
@@ -52,6 +52,11 @@
         "type": "feature",
         "name": "Migrated from Fantom Opera to Sonic chain!",
         "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Correct item description on the quest Stirred, not Shaken",
+        "lastUpdate": "Jan 10, 2024"
       },
       {
         "type": "bug",
