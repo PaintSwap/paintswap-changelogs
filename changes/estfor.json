@@ -1,8 +1,18 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Jan 10, 2024",
+    "lastUpdate": "Jan 11, 2024",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Self-made items on the collection page are now fully migrated to all heroes!",
+        "lastUpdate": "Jan 11, 2024"
+      },
+      {
+        "type": "feature",
+        "name": "Contest winners are now fully migrated on the contest page",
+        "lastUpdate": "Jan 11, 2024"
+      },
       {
         "type": "feature",
         "name": "Better names for healing potions",
