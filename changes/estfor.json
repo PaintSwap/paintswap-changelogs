@@ -1,11 +1,17 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Jan 22, 2024",
+    "lastUpdate": "Feb 7, 2024",
     "changes": [
       {
         "type": "feature",
-        "name": "Removed bar category in smithing and included them in the other gear tabs.",
+        "name": "Boosts can now be scheduled in the future to start with a specific queued action",
+        "lastUpdate": "Feb 7, 2024"
+      },
+
+      {
+        "type": "feature",
+        "name": "Removed bar category in smithing and included them in the other gear tabs",
         "lastUpdate": "Jan 22, 2024"
       },
       {
@@ -80,12 +86,22 @@
       },
       {
         "type": "bug",
-        "name": "Show correct selected tab after navigating when using scrollable tabs.",
+        "name": "Corrected the farming quest Growing Concerns V to gather from Marshland instead of Wetlands",
+        "lastUpdate": "Feb 7, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Removed the old extra dice rolls for evolved hero from battle result table",
+        "lastUpdate": "Feb 7, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Show correct selected tab after navigating when using scrollable tabs",
         "lastUpdate": "Jan 22, 2024"
       },
       {
         "type": "bug",
-        "name": "Now showing correct actions directly after saving a queue if an action is in progress already.",
+        "name": "Now showing correct actions directly after saving a queue if an action is in progress already",
         "lastUpdate": "Jan 21, 2024"
       },
       {
