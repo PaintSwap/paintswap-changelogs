@@ -1,68 +1,72 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Feb 7, 2024",
+    "lastUpdate": "Feb 10, 2025",
     "changes": [
       {
         "type": "feature",
-        "name": "Boosts can now be scheduled in the future to start with a specific queued action",
-        "lastUpdate": "Feb 7, 2024"
+        "name": "Summer mode activated along with 29 enhanced backgrounds in 4k resolution!",
+        "lastUpdate": "Feb 10, 2025"
       },
-
+      {
+        "type": "feature",
+        "name": "Boosts can now be scheduled in the future to start with a specific queued action",
+        "lastUpdate": "Feb 7, 2025"
+      },
       {
         "type": "feature",
         "name": "Removed bar category in smithing and included them in the other gear tabs",
-        "lastUpdate": "Jan 22, 2024"
+        "lastUpdate": "Jan 22, 2025"
       },
       {
         "type": "feature",
         "name": "Improved BRUSH quick swap in the exchange. Now using correct real-time swap rates, regardless of the amount.",
-        "lastUpdate": "Jan 21, 2024"
+        "lastUpdate": "Jan 21, 2025"
       },
       {
         "type": "feature",
         "name": "Set max UI zoom to same as min, so mobile does not zoom in on text fields",
-        "lastUpdate": "Jan 19, 2024"
+        "lastUpdate": "Jan 19, 2025"
       },
       {
         "type": "feature",
         "name": "Self-made items on the collection page are now fully migrated to all heroes!",
-        "lastUpdate": "Jan 11, 2024"
+        "lastUpdate": "Jan 11, 2025"
       },
       {
         "type": "feature",
         "name": "Contest winners are now fully migrated on the contest page",
-        "lastUpdate": "Jan 11, 2024"
+        "lastUpdate": "Jan 11, 2025"
       },
       {
         "type": "feature",
         "name": "Better names for healing potions",
-        "lastUpdate": "Jan 09, 2024"
+        "lastUpdate": "Jan 09, 2025"
       },
       {
         "type": "feature",
         "name": "Arrow badges for new toxin effects",
-        "lastUpdate": "Jan 06, 2024"
+        "lastUpdate": "Jan 06, 2025"
       },
       {
         "type": "feature",
         "name": "Made app 10% smaller on mobile devices, allow 200% zoom",
-        "lastUpdate": "Jan 06, 2024"
+        "lastUpdate": "Jan 06, 2025"
       },
       {
         "type": "feature",
         "name": "More padding at the bottom of pages",
-        "lastUpdate": "Jan 06, 2024"
+        "lastUpdate": "Jan 06, 2025"
       },
       {
         "type": "feature",
         "name": "Added health stat for potions",
-        "lastUpdate": "Jan 06, 2024"
+        "lastUpdate": "Jan 06, 2025"
       },
       {
         "type": "feature",
         "name": "New winter background and logos + animation effect on landing page",
-        "lastUpdate": "Jan 04, 2024"
+        "lastUpdate": "Jan 04, 2025"
       },
       {
         "type": "feature",
@@ -87,62 +91,62 @@
       {
         "type": "bug",
         "name": "Corrected the farming quest Growing Concerns V to gather from Marshland instead of Wetlands",
-        "lastUpdate": "Feb 7, 2024"
+        "lastUpdate": "Feb 7, 2025"
       },
       {
         "type": "bug",
         "name": "Removed the old extra dice rolls for evolved hero from battle result table",
-        "lastUpdate": "Feb 7, 2024"
+        "lastUpdate": "Feb 7, 2025"
       },
       {
         "type": "bug",
         "name": "Show correct selected tab after navigating when using scrollable tabs",
-        "lastUpdate": "Jan 22, 2024"
+        "lastUpdate": "Jan 22, 2025"
       },
       {
         "type": "bug",
         "name": "Now showing correct actions directly after saving a queue if an action is in progress already",
-        "lastUpdate": "Jan 21, 2024"
+        "lastUpdate": "Jan 21, 2025"
       },
       {
         "type": "bug",
         "name": "Do not show items as newly discovered if they should not be part of the collection",
-        "lastUpdate": "Jan 21, 2024"
+        "lastUpdate": "Jan 21, 2025"
       },
       {
         "type": "bug",
         "name": "Correct item description on the quest Stirred, not Shaken",
-        "lastUpdate": "Jan 10, 2024"
+        "lastUpdate": "Jan 10, 2025"
       },
       {
         "type": "bug",
         "name": "Prevent app crash when using google translate on the tutorial component",
-        "lastUpdate": "Jan 9, 2024"
+        "lastUpdate": "Jan 9, 2025"
       },
       {
         "type": "bug",
         "name": "Disable loot modal if not enough brush when wishing",
-        "lastUpdate": "Jan 6, 2024"
+        "lastUpdate": "Jan 6, 2025"
       },
       {
         "type": "bug",
         "name": "Added scrolling to the tabs on the fletching page",
-        "lastUpdate": "Jan 6, 2024"
+        "lastUpdate": "Jan 6, 2025"
       },
       {
         "type": "bug",
         "name": "Add back missing text color style for matched account in various places",
-        "lastUpdate": "Jan 4, 2024"
+        "lastUpdate": "Jan 4, 2025"
       },
       {
         "type": "bug",
         "name": "Show correct skill contest winner badge on the journal page",
-        "lastUpdate": "Jan 3, 2024"
+        "lastUpdate": "Jan 3, 2025"
       },
       {
         "type": "bug",
         "name": "Fix correct wiki links on latest news page",
-        "lastUpdate": "Jan 1, 2024"
+        "lastUpdate": "Jan 1, 2025"
       },
       {
         "type": "bug",
