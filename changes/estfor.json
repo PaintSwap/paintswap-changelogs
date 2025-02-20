@@ -1,8 +1,13 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Feb 10, 2025",
+    "lastUpdate": "Feb 20, 2025",
     "changes": [
+      {
+        "type": "feature",
+        "name": "The reward tickets are live to give activity points (as two new items) for the upcoming Sonic airdrop.",
+        "lastUpdate": "Feb 20, 2025"
+      },
       {
         "type": "feature",
         "name": "Summer mode activated along with 29 enhanced backgrounds in 4k resolution!",
@@ -87,6 +92,11 @@
         "type": "feature",
         "name": "Migrated from Fantom Opera to Sonic chain!",
         "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "No more showing required level 1 for food items when no hero loaded",
+        "lastUpdate": "Feb 20, 2025"
       },
       {
         "type": "bug",
