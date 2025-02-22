@@ -95,6 +95,11 @@
       },
       {
         "type": "bug",
+        "name": "Now showing earned tickets for the wallet you display in the journal instead of reading your own ticket amounts",
+        "lastUpdate": "Feb 22, 2025"
+      },
+      {
+        "type": "bug",
         "name": "No more showing required level 1 for food items when no hero loaded",
         "lastUpdate": "Feb 20, 2025"
       },
