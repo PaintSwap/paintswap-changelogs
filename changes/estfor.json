@@ -1,8 +1,13 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Feb 20, 2025",
+    "lastUpdate": "Feb 25, 2025",
     "changes": [
+      {
+        "type": "feature",
+        "name": "75% reduction in api data traffic and app data size. Expect faster page loads and less data usage.",
+        "lastUpdate": "Feb 25, 2025"
+      },
       {
         "type": "feature",
         "name": "The reward tickets are live to give activity points (as two new items) for the upcoming Sonic airdrop.",
