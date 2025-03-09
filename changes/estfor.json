@@ -1,8 +1,13 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Feb 25, 2025",
+    "lastUpdate": "Mar 09, 2025",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Finished the farming contest info panel.",
+        "lastUpdate": "Mar 09, 2025"
+      },
       {
         "type": "feature",
         "name": "75% reduction in api data traffic and app data size. Expect faster page loads and less data usage.",
