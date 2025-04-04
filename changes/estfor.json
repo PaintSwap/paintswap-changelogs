@@ -1,8 +1,13 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Mar 09, 2025",
+    "lastUpdate": "Apr 01, 2025",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Fantom bridge expired.",
+        "lastUpdate": "Apr 01, 2025"
+      },
       {
         "type": "feature",
         "name": "Finished the farming contest info panel.",
