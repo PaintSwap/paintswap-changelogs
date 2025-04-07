@@ -1,7 +1,7 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Apr 01, 2025",
+    "lastUpdate": "Apr 07, 2025",
     "changes": [
       {
         "type": "feature",
@@ -107,6 +107,16 @@
         "type": "feature",
         "name": "Migrated from Fantom Opera to Sonic chain!",
         "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Crash fix on the battle report page when using browser language translation.",
+        "lastUpdate": "Apr 07, 2025"
+      },
+      {
+        "type": "bug",
+        "name": "Allow changing the price in the price modal.",
+        "lastUpdate": "Apr 07, 2025"
       },
       {
         "type": "bug",
