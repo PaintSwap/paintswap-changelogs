@@ -1,8 +1,13 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Apr 07, 2025",
+    "lastUpdate": "Apr 08, 2025",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Enabled shop buy/sell and item/pet transfers on the player journal in addition to the wallet journal.",
+        "lastUpdate": "Apr 08, 2025"
+      },
       {
         "type": "feature",
         "name": "Fantom bridge expired.",
