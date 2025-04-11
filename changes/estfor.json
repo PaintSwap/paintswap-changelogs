@@ -1,8 +1,13 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Apr 08, 2025",
+    "lastUpdate": "Apr 11, 2025",
     "changes": [
+      {
+        "type": "feature",
+        "name": "New better RPG like thieving skill icon.",
+        "lastUpdate": "Apr 11, 2025"
+      },
       {
         "type": "feature",
         "name": "Enabled shop buy/sell and item/pet transfers on the player journal in addition to the wallet journal.",
@@ -112,6 +117,21 @@
         "type": "feature",
         "name": "Migrated from Fantom Opera to Sonic chain!",
         "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Removed 'owned' label for multi reward action panels.",
+        "lastUpdate": "Apr 10, 2025"
+      },
+      {
+        "type": "bug",
+        "name": "Remove selected spell when switching beteen magic staff and book (as they differ in compatibility).",
+        "lastUpdate": "Apr 10, 2025"
+      },
+      {
+        "type": "bug",
+        "name": "Show correct item along with dice in details modal (if opened from the stats panel).",
+        "lastUpdate": "Apr 10, 2025"
       },
       {
         "type": "bug",
