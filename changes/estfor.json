@@ -1,8 +1,13 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Apr 11, 2025",
+    "lastUpdate": "Apr 12, 2025",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Loading indicator for all leaderboard tables.",
+        "lastUpdate": "Apr 12, 2025"
+      },
       {
         "type": "feature",
         "name": "New better RPG like thieving skill icon.",
@@ -117,6 +122,11 @@
         "type": "feature",
         "name": "Migrated from Fantom Opera to Sonic chain!",
         "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Bottom padding on inventory and collection pages.",
+        "lastUpdate": "Apr 12, 2025"
       },
       {
         "type": "bug",
