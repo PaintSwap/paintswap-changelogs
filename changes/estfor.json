@@ -5,6 +5,11 @@
     "changes": [
       {
         "type": "feature",
+        "name": "Changed wallet tutorial images to use Sonic instead of Fantom.",
+        "lastUpdate": "Apr 13, 2025"
+      },
+      {
+        "type": "feature",
         "name": "Loading indicator for all leaderboard tables.",
         "lastUpdate": "Apr 12, 2025"
       },
@@ -122,6 +127,26 @@
         "type": "feature",
         "name": "Migrated from Fantom Opera to Sonic chain!",
         "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Right align last column in wishing well leaderboard.",
+        "lastUpdate": "Apr 13, 2025"
+      },
+      {
+        "type": "bug",
+        "name": "Disallow selecting more heroes than allowed in a clan when accepting new membership.",
+        "lastUpdate": "Apr 13, 2025"
+      },
+      {
+        "type": "bug",
+        "name": "Correctly combining owned amount in the loot modal when mixing same item over several different categories.",
+        "lastUpdate": "Apr 13, 2025"
+      },
+      {
+        "type": "bug",
+        "name": "No longer scrolling to top when opening the loot modal.",
+        "lastUpdate": "Apr 13, 2025"
       },
       {
         "type": "bug",
