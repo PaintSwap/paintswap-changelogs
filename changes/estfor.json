@@ -5,6 +5,11 @@
     "changes": [
       {
         "type": "feature",
+        "name": "Refetch owned amounts every time a tool modal is opened.",
+        "lastUpdate": "Apr 14, 2025"
+      },
+      {
+        "type": "feature",
         "name": "Changed wallet tutorial images to use Sonic instead of Fantom.",
         "lastUpdate": "Apr 13, 2025"
       },
