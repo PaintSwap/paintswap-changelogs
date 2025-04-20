@@ -1,8 +1,23 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Apr 12, 2025",
+    "lastUpdate": "Apr 20, 2025",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Easter event: Boosted pet incubation between April 20 and May 18.",
+        "lastUpdate": "Apr 20, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Item search on the collection page plus a tiny bit less blur on undiscovered items.",
+        "lastUpdate": "Apr 20, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Allow selecting player and item names in some places using the mouse cursor.",
+        "lastUpdate": "Apr 20, 2025"
+      },
       {
         "type": "feature",
         "name": "Refetch owned amounts every time a tool modal is opened.",
@@ -132,6 +147,11 @@
         "type": "feature",
         "name": "Migrated from Fantom Opera to Sonic chain!",
         "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Show correct owned amount when looting oracle rewards.",
+        "lastUpdate": "Apr 19, 2025"
       },
       {
         "type": "bug",
