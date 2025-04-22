@@ -155,7 +155,7 @@
       },
       {
         "type": "bug",
-        "name": "Allow pasting text into text fields on iphones, for example wallet address when transferring items.",
+        "name": "Allows pasting into text fields on iOS, for example the wallet address when transferring.",
         "lastUpdate": "Apr 22, 2025"
       },
       {
