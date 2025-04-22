@@ -1,8 +1,13 @@
 [
   {
     "version": "2.0",
-    "lastUpdate": "Apr 20, 2025",
+    "lastUpdate": "Apr 22, 2025",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Take unlooted egg into account so new passive action can be started at the same time as ending the old one, saving one transaction.",
+        "lastUpdate": "Apr 22, 2025"
+      },
       {
         "type": "feature",
         "name": "Easter event: Boosted pet incubation between April 20 and May 18.",
@@ -147,6 +152,11 @@
         "type": "feature",
         "name": "Migrated from Fantom Opera to Sonic chain!",
         "lastUpdate": "Dec 23, 2024"
+      },
+      {
+        "type": "bug",
+        "name": "Allow pasting text into text fields on iphones, for example wallet address when transferring items.",
+        "lastUpdate": "Apr 22, 2025"
       },
       {
         "type": "bug",
