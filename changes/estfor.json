@@ -5,7 +5,7 @@
     "changes": [
       {
         "type": "feature",
-        "name": "Take unlooted egg into account so new passive action can be started at the same time as ending the old one, saving one transaction.",
+        "name": "Takes unlooted egg into account so new passive action can be started at the same time as ending the old one, saving one transaction.",
         "lastUpdate": "Apr 22, 2025"
       },
       {
