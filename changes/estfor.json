@@ -1,5 +1,16 @@
 [
   {
+    "version": "2.1",
+    "lastUpdate": "May 23, 2025",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Latest of the greatest wallet support, adding Binance wallet and resurrecting Trust wallet (and others).",
+        "lastUpdate": "May 23, 2025"
+      }
+    ]
+  },
+  {
     "version": "2.0",
     "lastUpdate": "Apr 22, 2025",
     "changes": [
