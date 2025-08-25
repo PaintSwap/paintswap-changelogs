@@ -20,6 +20,16 @@
       },
       {
         "type": "feature",
+        "name": "Clan war fixes: 1. MMR Protection — To move a defender’s MMR, the attacker must have atleast 50% +1 Dice AND Roster of the defender. If an attacker has no chance of winning, then being attacked by them will not increase your MMR. 2. Dead Torch = No Dice — If a player has a dead torch (inactive for a long time), then they do not count in the roster and produce no dice rolls(they take space but effectively offer nothing).",
+        "lastUpdate": "Aug 25, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "All Brewing Recipes Adjusted — Costs have been significantly reduced. Outputs Increased — Healing potions and toxin recipes now produce more yield. Drop Quantity Increase — Get more materials for Healing Potions by gathering/harvesting.",
+        "lastUpdate": "Aug 25, 2025"
+      },
+      {
+        "type": "feature",
         "name": "Latest of the greatest wallet support, adding Binance wallet and resurrecting Trust wallet (and others).",
         "lastUpdate": "May 23, 2025"
       },
