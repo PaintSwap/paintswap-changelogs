@@ -1,7 +1,7 @@
 [
   {
     "version": "2.1",
-    "lastUpdate": "Aug 25, 2025",
+    "lastUpdate": "Sep 04, 2025",
     "changes": [
       {
         "type": "feature",
@@ -32,6 +32,11 @@
         "type": "feature",
         "name": "Latest of the greatest wallet support, adding Binance wallet and resurrecting Trust wallet (and others).",
         "lastUpdate": "May 23, 2025"
+      },
+      {
+        "type": "bug",
+        "name": "Exclude special event items from the account on the collection page.",
+        "lastUpdate": "Sep 04, 2025"
       },
       {
         "type": "bug",
