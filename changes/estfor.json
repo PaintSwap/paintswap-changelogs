@@ -1,8 +1,13 @@
 [
   {
     "version": "2.1",
-    "lastUpdate": "Sep 04, 2025",
+    "lastUpdate": "Sep 11, 2025",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Differentiate between normal and requeued actions in the journal",
+        "lastUpdate": "Sep 11, 2025"
+      },
       {
         "type": "feature",
         "name": "Anniversary event: Three nightmare monsters are back plus a ring, a pouch, an amulet and 5 eggs to discover during the 2 week event",
