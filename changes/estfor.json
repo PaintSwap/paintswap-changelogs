@@ -1,5 +1,71 @@
 [
   {
+    "version": "2.2",
+    "lastUpdate": "Dec 28, 2025",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "API blockchain indexing migrated from Alchemy Subgraph to Envio Hyperindex for faster and more stable performance.",
+        "lastUpdate": "Dec 28, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Removed NFT gatekeeping for joining clans.",
+        "lastUpdate": "Dec 28, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Toast message moved up a bit to not block the boost button.",
+        "lastUpdate": "Dec 28, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Reduced CPU load when revealing items, especially chests.",
+        "lastUpdate": "Dec 28, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Battle: Attacker must now have at least 50% +1 more active warriors than the defender in order to move the defender's MMR up or down.",
+        "lastUpdate": "Dec 04, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Battle: An inactive warrior in the roster (dead torch after 14 days) will not count during battle and produce 0 dice.",
+        "lastUpdate": "Dec 04, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Battle: Attacker’s range now ignore defenders that have no chance of defeating them to avoid hiding behind weak clans.",
+        "lastUpdate": "Dec 04, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Battles: A hero must wait 14 days after leaving a clan before they can be added to any roster.",
+        "lastUpdate": "Dec 04, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Hero activity status for dead torch now happens after 14 days instead of 30 days.",
+        "lastUpdate": "Dec 04, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Replaced the old third party oracle VRF with paintswap VRF for better stability and uptime.",
+        "lastUpdate": "Dec 04, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Incrased the shop Brush prices by 2x and prepared for future discount seasons.",
+        "lastUpdate": "Dec 04, 2025"
+      },
+      {
+        "type": "feature",
+        "name": "Added 12 new more powerful boosts to the shop. M, L and XL for XP, Skill, Gathering and Combat. The old images for combat and gathering boosts are now the M versions.",
+        "lastUpdate": "Dec 04, 2025"
+      }
+    ]
+  },
+  {
     "version": "2.1",
     "lastUpdate": "Sep 11, 2025",
     "changes": [
