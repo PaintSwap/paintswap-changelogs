@@ -1,8 +1,13 @@
 [
   {
     "version": "2.2",
-    "lastUpdate": "Dec 28, 2025",
+    "lastUpdate": "Dec 30, 2025",
     "changes": [
+      {
+        "type": "feature",
+        "name": "A more trophy-inspired item preview for the collection page.",
+        "lastUpdate": "Dec 30, 2025"
+      },
       {
         "type": "feature",
         "name": "API blockchain indexing migrated from Alchemy Subgraph to Envio Hyperindex for faster and more stable performance.",
