@@ -60,7 +60,7 @@
       },
       {
         "type": "feature",
-        "name": "Incrased the shop Brush prices by 2x and prepared for future discount seasons.",
+        "name": "Increased the shop Brush prices by 2x and prepared for future discount seasons.",
         "lastUpdate": "Dec 04, 2025"
       },
       {
@@ -92,11 +92,6 @@
       {
         "type": "feature",
         "name": "Introducing red and yellow tickets for the Sonic airdrop season 2!",
-        "lastUpdate": "Aug 25, 2025"
-      },
-      {
-        "type": "feature",
-        "name": "Clan war fixes: 1. MMR Protection — To move a defender’s MMR, the attacker must have atleast 50% +1 Dice AND Roster of the defender. If an attacker has no chance of winning, then being attacked by them will not increase your MMR. 2. Dead Torch = No Dice — If a player has a dead torch (inactive for a long time), then they do not count in the roster and produce no dice rolls(they take space but effectively offer nothing).",
         "lastUpdate": "Aug 25, 2025"
       },
       {
