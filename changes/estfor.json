@@ -1,7 +1,7 @@
 [
   {
     "version": "2.2",
-    "lastUpdate": "Dec 30, 2025",
+    "lastUpdate": "Jan 03, 2025",
     "changes": [
       {
         "type": "feature",
@@ -67,6 +67,11 @@
         "type": "feature",
         "name": "Added 12 new more powerful boosts to the shop. M, L and XL for XP, Skill, Gathering and Combat. The old images for combat and gathering boosts are now the M versions.",
         "lastUpdate": "Dec 04, 2025"
+      },
+      {
+        "type": "bug",
+        "name": "Prevent crash when clan invite table contains an invalid hero.",
+        "lastUpdate": "Jan 03, 2026"
       }
     ]
   },
