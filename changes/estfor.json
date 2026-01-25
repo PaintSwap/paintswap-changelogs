@@ -5,6 +5,16 @@
     "changes": [
       {
         "type": "feature",
+        "name": "Added link to buy USDC if no USDC balance when buying supporter packs.",
+        "lastUpdate": "Jan 25, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Optimized API fetching throughout the app.",
+        "lastUpdate": "Jan 25, 2026"
+      },
+      {
+        "type": "feature",
         "name": "New global events for everyone to participate in, along with 5 new quests and 13 new items.",
         "lastUpdate": "Jan 23, 2026"
       },
@@ -32,6 +42,11 @@
         "type": "feature",
         "name": "Added categories for selecting boosts + toggle to hide disabled ones.",
         "lastUpdate": "Jan 23, 2026"
+      },
+      {
+        "type": "bug",
+        "name": "All self made item counts streamlined and displayed identical in all places.",
+        "lastUpdate": "Jan 25, 2026"
       },
       {
         "type": "bug",
