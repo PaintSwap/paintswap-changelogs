@@ -1,5 +1,51 @@
 [
   {
+    "version": "2.3",
+    "lastUpdate": "Jan 25, 2026",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "New global events for everyone to participate in, along with 5 new quests and 13 new items.",
+        "lastUpdate": "Jan 23, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Added a new tab on the game collection page for limited edition quest-specific items.",
+        "lastUpdate": "Jan 23, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Added supporter packs in the shop and avatar and avatar border customizations via new avatar items. Can also be customized from the player home page.",
+        "lastUpdate": "Jan 23, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Added hero and pet trading market.",
+        "lastUpdate": "Jan 23, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Added item categories when buying from the shop.",
+        "lastUpdate": "Jan 23, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Added categories for selecting boosts + toggle to hide disabled ones.",
+        "lastUpdate": "Jan 23, 2026"
+      },
+      {
+        "type": "bug",
+        "name": "Added notification badge on Loot Market sub menu item if claimable trades.",
+        "lastUpdate": "Jan 25, 2026"
+      },
+      {
+        "type": "bug",
+        "name": "Fixed correct boost names for old (S) boosts.",
+        "lastUpdate": "Jan 23, 2026"
+      }
+    ]
+  },
+  {
     "version": "2.2",
     "lastUpdate": "Jan 03, 2025",
     "changes": [
