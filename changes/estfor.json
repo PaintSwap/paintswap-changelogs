@@ -1,8 +1,23 @@
 [
   {
     "version": "2.3",
-    "lastUpdate": "Jan 25, 2026",
+    "lastUpdate": "Jan 27, 2026",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Redesigned supporter packs and avatar/border customizations for better UX.",
+        "lastUpdate": "Jan 27, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Redesigned pet and hero marketplaces for better UX.",
+        "lastUpdate": "Jan 27, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Always close open modals on browser back button.",
+        "lastUpdate": "Jan 27, 2026"
+      },
       {
         "type": "feature",
         "name": "Added link to buy USDC if no USDC balance when buying supporter packs.",
