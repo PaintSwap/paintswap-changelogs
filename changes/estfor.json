@@ -1,8 +1,13 @@
 [
   {
     "version": "2.3",
-    "lastUpdate": "Feb 11, 2026",
+    "lastUpdate": "Feb 19, 2026",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Added support for black market and trading goods with the black merchant.",
+        "lastUpdate": "Feb 19, 2026"
+      },
       {
         "type": "feature",
         "name": "Extra divider in journal when the hero differ on two rows with same hash.",
