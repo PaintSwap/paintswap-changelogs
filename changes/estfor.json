@@ -1,5 +1,21 @@
 [
   {
+    "version": "2.4",
+    "lastUpdate": "Mar 10, 2026",
+    "changes": [
+      {
+        "type": "feature",
+        "name": "Major update to support passkey authentication. Game accepts both legacy web3 wallets and email accounts!",
+        "lastUpdate": "Feb 19, 2026"
+      },
+      {
+        "type": "bug",
+        "name": "Switched the order of last actions made on the global stats.",
+        "lastUpdate": "Mar 26, 2026"
+      }
+    ]
+  },
+  {
     "version": "2.3",
     "lastUpdate": "Feb 19, 2026",
     "changes": [
