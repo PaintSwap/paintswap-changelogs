@@ -1,8 +1,38 @@
 [
   {
     "version": "2.4",
-    "lastUpdate": "Mar 10, 2026",
+    "lastUpdate": "Apr 28, 2026",
     "changes": [
+      {
+        "type": "feature",
+        "name": "End of the first event: Winners have been airdropped valuable items!",
+        "lastUpdate": "Apr 28, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Added a new Loot Bazaar without the old BRUSH price limit. Users can migrate orders from the old.",
+        "lastUpdate": "Apr 28, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "7 new items: 3 custom titles, Mountain's Root Shield, Primal Embryolith (pet rebirth), Alchemical Anchor (free boosts), and Rift Hat (TBD).",
+        "lastUpdate": "Apr 28, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Added a title system: Apply title items for custom hero titles on the leaderboard and player pages.",
+        "lastUpdate": "Apr 28, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Added Alchemical Anchor: Every 10th boost can be used without consuming it for those who own this magical item.",
+        "lastUpdate": "Apr 28, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Added a pet rebirth system: Primal Embryolith allows you to reborn your pet into same pet type but with new random stats.",
+        "lastUpdate": "Apr 28, 2026"
+      },
       {
         "type": "feature",
         "name": "Major update to support passkey authentication. Game accepts both legacy web3 wallets and email accounts!",
