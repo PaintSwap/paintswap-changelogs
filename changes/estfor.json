@@ -1,7 +1,7 @@
 [
   {
     "version": "2.4",
-    "lastUpdate": "Apr 28, 2026",
+    "lastUpdate": "May 23, 2026",
     "changes": [
       {
         "type": "feature",
@@ -37,6 +37,11 @@
         "type": "feature",
         "name": "Major update to support passkey authentication. Game accepts both legacy web3 wallets and email accounts!",
         "lastUpdate": "Feb 19, 2026"
+      },
+      {
+        "type": "bug",
+        "name": "Support clan age display over 1000 days in the leaderboard.",
+        "lastUpdate": "May 23, 2026"
       },
       {
         "type": "bug",
