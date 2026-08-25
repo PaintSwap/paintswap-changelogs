@@ -1,8 +1,13 @@
 [
   {
     "version": "2.4",
-    "lastUpdate": "May 23, 2026",
+    "lastUpdate": "Aug 25, 2026",
     "changes": [
+      {
+        "type": "feature",
+        "name": "New items - 3rd Anniversary Ring, Amulet, Pouch and a new Egg. Daily COIN claims until September 25th.",
+        "lastUpdate": "Aug 25, 2026"
+      },
       {
         "type": "feature",
         "name": "End of the first event: Winners have been airdropped valuable items!",
