@@ -1,7 +1,7 @@
 [
   {
     "version": "2.4",
-    "lastUpdate": "Aug 25, 2026",
+    "lastUpdate": "Aug 27, 2026",
     "changes": [
       {
         "type": "feature",
@@ -42,6 +42,11 @@
         "type": "feature",
         "name": "Major update to support passkey authentication. Game accepts both legacy web3 wallets and email accounts!",
         "lastUpdate": "Feb 19, 2026"
+      },
+      {
+        "type": "bug",
+        "name": "Include rings and amulets in Combat that only have health stats.",
+        "lastUpdate": "May 27, 2026"
       },
       {
         "type": "bug",
