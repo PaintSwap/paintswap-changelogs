@@ -1,8 +1,18 @@
 [
   {
     "version": "2.4",
-    "lastUpdate": "Aug 27, 2026",
+    "lastUpdate": "Sept 25, 2026",
     "changes": [
+      {
+        "type": "feature",
+        "name": "Localization support for Chinese simplified",
+        "lastUpdate": "Sept 2, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Library updates and optimizations",
+        "lastUpdate": "Sept 2, 2026"
+      },
       {
         "type": "feature",
         "name": "New items - 3rd Anniversary Ring, Amulet, Pouch and a new Egg. Daily COIN claims until September 25th.",
