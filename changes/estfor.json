@@ -1,17 +1,22 @@
 [
   {
     "version": "2.4",
-    "lastUpdate": "Sept 25, 2026",
+    "lastUpdate": "Sep 26, 2026",
     "changes": [
       {
         "type": "feature",
-        "name": "Localization support for Chinese simplified",
-        "lastUpdate": "Sept 2, 2026"
+        "name": "Faster subgraph sync times.",
+        "lastUpdate": "Sep 25, 2026"
       },
       {
         "type": "feature",
-        "name": "Library updates and optimizations",
-        "lastUpdate": "Sept 2, 2026"
+        "name": "Localization support for Chinese simplified.",
+        "lastUpdate": "Sep 25, 2026"
+      },
+      {
+        "type": "feature",
+        "name": "Library updates and loading speed optimizations.",
+        "lastUpdate": "Sep 25, 2026"
       },
       {
         "type": "feature",
@@ -52,6 +57,16 @@
         "type": "feature",
         "name": "Major update to support passkey authentication. Game accepts both legacy web3 wallets and email accounts!",
         "lastUpdate": "Feb 19, 2026"
+      },
+      {
+        "type": "bug",
+        "name": "Handle empty and missing BigNumber inputs.",
+        "lastUpdate": "Sep 26, 2026"
+      },
+      {
+        "type": "bug",
+        "name": "Correct price modal icons.",
+        "lastUpdate": "Sep 26, 2026"
       },
       {
         "type": "bug",
